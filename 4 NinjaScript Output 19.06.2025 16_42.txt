@@ -1,0 +1,1456 @@
+[DEBUG] 18.06.2025 12:01:40 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:40, High: 22041,5, Low: 22041,5, currentLevel: 22041,5, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,5 >= 22042,25, SHORT: Low: 22041,5 <= 22040,75
+[DEBUG] 18.06.2025 12:01:40 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:40, High: 22041, Low: 22041, currentLevel: 22041,5, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041 >= 22042,25, SHORT: Low: 22041 <= 22040,75
+[DEBUG] 18.06.2025 12:01:40 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:40, High: 22041, Low: 22041, currentLevel: 22041,5, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041 >= 22042,25, SHORT: Low: 22041 <= 22040,75
+[DEBUG] 18.06.2025 12:01:41 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:41, High: 22041, Low: 22041, currentLevel: 22041,5, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041 >= 22042,25, SHORT: Low: 22041 <= 22040,75
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22041,25, Low: 22041,25, currentLevel: 22041,5, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,25 >= 22042,25, SHORT: Low: 22041,25 <= 22040,75
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22041,25, Low: 22041,25, currentLevel: 22041,5, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,25 >= 22042,25, SHORT: Low: 22041,25 <= 22040,75
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22041, Low: 22041, currentLevel: 22041,5, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041 >= 22042,25, SHORT: Low: 22041 <= 22040,75
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22041, Low: 22041, currentLevel: 22041,5, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041 >= 22042,25, SHORT: Low: 22041 <= 22040,75
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22041, Low: 22041, currentLevel: 22041,5, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041 >= 22042,25, SHORT: Low: 22041 <= 22040,75
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22040,75, Low: 22040,75, currentLevel: 22041,5, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,75 >= 22042,25, SHORT: Low: 22040,75 <= 22040,75
+[ORDER] SHORT ENTRY at 22040,75, TP at 22039, Level: 22041,5
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22041,5 вне диапазона 22040,5-22041,25, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22040,5, Low: 22040,5, currentLevel: 22040,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,5 >= 22041,625, SHORT: Low: 22040,5 <= 22040,125
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22040,25, Low: 22040,25, currentLevel: 22040,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22041,625, SHORT: Low: 22040,25 <= 22040,125
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22040,25, Low: 22040,25, currentLevel: 22040,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22041,625, SHORT: Low: 22040,25 <= 22040,125
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22040,25, Low: 22040,25, currentLevel: 22040,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22041,625, SHORT: Low: 22040,25 <= 22040,125
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22040,25, Low: 22040,25, currentLevel: 22040,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22041,625, SHORT: Low: 22040,25 <= 22040,125
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22040,25, Low: 22040,25, currentLevel: 22040,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22041,625, SHORT: Low: 22040,25 <= 22040,125
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22040,25, Low: 22040,25, currentLevel: 22040,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22041,625, SHORT: Low: 22040,25 <= 22040,125
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22040, Low: 22040, currentLevel: 22040,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040 >= 22041,625, SHORT: Low: 22040 <= 22040,125
+[ORDER] SHORT ENTRY at 22040,125, TP at 22038,375, Level: 22040,875
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22040,875 вне диапазона 22040-22040,75, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22040, Low: 22040, currentLevel: 22040,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040 >= 22041,125, SHORT: Low: 22040 <= 22039,625
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22040, Low: 22040, currentLevel: 22040,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040 >= 22041,125, SHORT: Low: 22040 <= 22039,625
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22040,375 вне диапазона 22040-22040,25, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22040, Low: 22040, currentLevel: 22040,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040 >= 22040,875, SHORT: Low: 22040 <= 22039,375
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22040, Low: 22040, currentLevel: 22040,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040 >= 22040,875, SHORT: Low: 22040 <= 22039,375
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22040, Low: 22040, currentLevel: 22040,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040 >= 22040,875, SHORT: Low: 22040 <= 22039,375
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22039,75, Low: 22039,75, currentLevel: 22040,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,75 >= 22040,875, SHORT: Low: 22039,75 <= 22039,375
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22039,75, Low: 22039,75, currentLevel: 22040,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,75 >= 22040,875, SHORT: Low: 22039,75 <= 22039,375
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22040, Low: 22040, currentLevel: 22040,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040 >= 22040,875, SHORT: Low: 22040 <= 22039,375
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22040,125 вне диапазона 22039,75-22040, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22039,75, Low: 22039,75, currentLevel: 22039,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,75 >= 22040,625, SHORT: Low: 22039,75 <= 22039,125
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22039,75, Low: 22039,75, currentLevel: 22039,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,75 >= 22040,625, SHORT: Low: 22039,75 <= 22039,125
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22039,75, Low: 22039,75, currentLevel: 22039,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,75 >= 22040,625, SHORT: Low: 22039,75 <= 22039,125
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22039,5, Low: 22039,5, currentLevel: 22039,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,5 >= 22040,625, SHORT: Low: 22039,5 <= 22039,125
+[DEBUG] 18.06.2025 12:01:42 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:42, High: 22040, Low: 22040, currentLevel: 22039,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040 >= 22040,625, SHORT: Low: 22040 <= 22039,125
+[DEBUG] 18.06.2025 12:01:43 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:43, High: 22040, Low: 22040, currentLevel: 22039,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040 >= 22040,625, SHORT: Low: 22040 <= 22039,125
+[DEBUG] 18.06.2025 12:01:43 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:43, High: 22040,25, Low: 22040,25, currentLevel: 22039,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22040,625, SHORT: Low: 22040,25 <= 22039,125
+[DEBUG] 18.06.2025 12:01:43 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:43, High: 22040,25, Low: 22040,25, currentLevel: 22039,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22040,625, SHORT: Low: 22040,25 <= 22039,125
+[DEBUG] 18.06.2025 12:01:43 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:43, High: 22040,25, Low: 22040,25, currentLevel: 22039,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22040,625, SHORT: Low: 22040,25 <= 22039,125
+[DEBUG] 18.06.2025 12:01:43 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:43, High: 22040,25, Low: 22040,25, currentLevel: 22039,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22040,625, SHORT: Low: 22040,25 <= 22039,125
+[DEBUG] 18.06.2025 12:01:43 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:43, High: 22040,5, Low: 22040,5, currentLevel: 22039,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,5 >= 22040,625, SHORT: Low: 22040,5 <= 22039,125
+[DEBUG] 18.06.2025 12:01:43 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:43, High: 22040,5, Low: 22040,5, currentLevel: 22039,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,5 >= 22040,625, SHORT: Low: 22040,5 <= 22039,125
+[DEBUG] 18.06.2025 12:01:43 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:43, High: 22040,25, Low: 22040,25, currentLevel: 22039,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22040,625, SHORT: Low: 22040,25 <= 22039,125
+[DEBUG] 18.06.2025 12:01:43 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22039,875 вне диапазона 22040-22040,5, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:01:43, High: 22040,25, Low: 22040,25, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22041, SHORT: Low: 22040,25 <= 22039,5
+[DEBUG] 18.06.2025 12:01:43 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:43, High: 22040,25, Low: 22040,25, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22041, SHORT: Low: 22040,25 <= 22039,5
+[DEBUG] 18.06.2025 12:01:43 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:43, High: 22040,25, Low: 22040,25, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22041, SHORT: Low: 22040,25 <= 22039,5
+[DEBUG] 18.06.2025 12:01:44 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:44, High: 22040, Low: 22040, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040 >= 22041, SHORT: Low: 22040 <= 22039,5
+[DEBUG] 18.06.2025 12:01:45 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:45, High: 22040,5, Low: 22040,5, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,5 >= 22041, SHORT: Low: 22040,5 <= 22039,5
+[DEBUG] 18.06.2025 12:01:45 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:45, High: 22040,25, Low: 22040,25, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22041, SHORT: Low: 22040,25 <= 22039,5
+[DEBUG] 18.06.2025 12:01:46 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:46, High: 22040,5, Low: 22040,5, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,5 >= 22041, SHORT: Low: 22040,5 <= 22039,5
+[DEBUG] 18.06.2025 12:01:46 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:46, High: 22040,25, Low: 22040,25, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22041, SHORT: Low: 22040,25 <= 22039,5
+[DEBUG] 18.06.2025 12:01:46 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:46, High: 22040,25, Low: 22040,25, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22041, SHORT: Low: 22040,25 <= 22039,5
+[DEBUG] 18.06.2025 12:01:47 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:47, High: 22040,25, Low: 22040,25, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22041, SHORT: Low: 22040,25 <= 22039,5
+[DEBUG] 18.06.2025 12:01:47 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:47, High: 22040,25, Low: 22040,25, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22041, SHORT: Low: 22040,25 <= 22039,5
+[DEBUG] 18.06.2025 12:01:48 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:48, High: 22040, Low: 22040, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040 >= 22041, SHORT: Low: 22040 <= 22039,5
+[DEBUG] 18.06.2025 12:01:48 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:48, High: 22040,5, Low: 22040,5, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,5 >= 22041, SHORT: Low: 22040,5 <= 22039,5
+[DEBUG] 18.06.2025 12:01:50 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:50, High: 22040, Low: 22040, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040 >= 22041, SHORT: Low: 22040 <= 22039,5
+[DEBUG] 18.06.2025 12:01:50 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:50, High: 22040, Low: 22040, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040 >= 22041, SHORT: Low: 22040 <= 22039,5
+[DEBUG] 18.06.2025 12:01:50 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:50, High: 22040, Low: 22040, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040 >= 22041, SHORT: Low: 22040 <= 22039,5
+[DEBUG] 18.06.2025 12:01:50 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:50, High: 22039,75, Low: 22039,75, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,75 >= 22041, SHORT: Low: 22039,75 <= 22039,5
+[DEBUG] 18.06.2025 12:01:50 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:50, High: 22039,75, Low: 22039,75, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,75 >= 22041, SHORT: Low: 22039,75 <= 22039,5
+[DEBUG] 18.06.2025 12:01:50 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:50, High: 22039,75, Low: 22039,75, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,75 >= 22041, SHORT: Low: 22039,75 <= 22039,5
+[DEBUG] 18.06.2025 12:01:50 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:50, High: 22039,75, Low: 22039,75, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,75 >= 22041, SHORT: Low: 22039,75 <= 22039,5
+[DEBUG] 18.06.2025 12:01:50 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:50, High: 22039,75, Low: 22039,75, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,75 >= 22041, SHORT: Low: 22039,75 <= 22039,5
+[DEBUG] 18.06.2025 12:01:50 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:50, High: 22039,5, Low: 22039,5, currentLevel: 22040,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,5 >= 22041, SHORT: Low: 22039,5 <= 22039,5
+[ORDER] SHORT ENTRY at 22039,5, TP at 22037,75, Level: 22040,25
+[DEBUG] 18.06.2025 12:01:50 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22040,25 вне диапазона 22039,5-22040, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:01:50, High: 22039,5, Low: 22039,5, currentLevel: 22039,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,5 >= 22040,5, SHORT: Low: 22039,5 <= 22039
+[DEBUG] 18.06.2025 12:01:50 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:50, High: 22039,5, Low: 22039,5, currentLevel: 22039,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,5 >= 22040,5, SHORT: Low: 22039,5 <= 22039
+[DEBUG] 18.06.2025 12:01:50 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:50, High: 22039,5, Low: 22039,5, currentLevel: 22039,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,5 >= 22040,5, SHORT: Low: 22039,5 <= 22039
+[DEBUG] 18.06.2025 12:01:50 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:50, High: 22039,5, Low: 22039,5, currentLevel: 22039,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,5 >= 22040,5, SHORT: Low: 22039,5 <= 22039
+[DEBUG] 18.06.2025 12:01:50 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:50, High: 22039,5, Low: 22039,5, currentLevel: 22039,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,5 >= 22040,5, SHORT: Low: 22039,5 <= 22039
+[DEBUG] 18.06.2025 12:01:50 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:50, High: 22039,25, Low: 22039,25, currentLevel: 22039,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,25 >= 22040,5, SHORT: Low: 22039,25 <= 22039
+[DEBUG] 18.06.2025 12:01:50 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:50, High: 22039,25, Low: 22039,25, currentLevel: 22039,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,25 >= 22040,5, SHORT: Low: 22039,25 <= 22039
+[DEBUG] 18.06.2025 12:01:50 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:50, High: 22039,25, Low: 22039,25, currentLevel: 22039,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,25 >= 22040,5, SHORT: Low: 22039,25 <= 22039
+[DEBUG] 18.06.2025 12:01:50 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22039,75 вне диапазона 22039,25-22039,5, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:01:50, High: 22039,25, Low: 22039,25, currentLevel: 22039,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22039,25 >= 22040,125, SHORT: Low: 22039,25 <= 22038,625
+[DEBUG] 18.06.2025 12:01:50 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:50, High: 22040,25, Low: 22040,25, currentLevel: 22039,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22040,125, SHORT: Low: 22040,25 <= 22038,625
+[ORDER] LONG ENTRY at 22040,125, TP at 22041,875, Level: 22039,375
+[DEBUG] 18.06.2025 12:01:51 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:51, High: 22039,75, Low: 22039,75, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22039,75, TP: 22041,875, SL: not set, Low[0]: 22039,75
+[DEBUG] 18.06.2025 12:01:52 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:52, High: 22039,75, Low: 22039,75, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22039,75, TP: 22041,875, SL: not set, Low[0]: 22039,75
+[DEBUG] 18.06.2025 12:01:52 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:52, High: 22039,75, Low: 22039,75, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22039,75, TP: 22041,875, SL: not set, Low[0]: 22039,75
+[DEBUG] 18.06.2025 12:01:53 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:53, High: 22039,75, Low: 22039,75, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22039,75, TP: 22041,875, SL: not set, Low[0]: 22039,75
+[DEBUG] 18.06.2025 12:01:53 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:53, High: 22039,5, Low: 22039,5, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22039,5, TP: 22041,875, SL: not set, Low[0]: 22039,5
+[DEBUG] 18.06.2025 12:01:53 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:53, High: 22039,75, Low: 22039,75, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22039,75, TP: 22041,875, SL: not set, Low[0]: 22039,75
+[DEBUG] 18.06.2025 12:01:53 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:53, High: 22039,25, Low: 22039,25, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22039,25, TP: 22041,875, SL: not set, Low[0]: 22039,25
+[DEBUG] 18.06.2025 12:01:55 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:55, High: 22039,25, Low: 22039,25, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22039,25, TP: 22041,875, SL: not set, Low[0]: 22039,25
+[DEBUG] 18.06.2025 12:01:55 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:55, High: 22039,25, Low: 22039,25, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22039,25, TP: 22041,875, SL: not set, Low[0]: 22039,25
+[DEBUG] 18.06.2025 12:01:55 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:55, High: 22039, Low: 22039, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22039, TP: 22041,875, SL: not set, Low[0]: 22039
+[DEBUG] 18.06.2025 12:01:55 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:55, High: 22039, Low: 22039, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22039, TP: 22041,875, SL: not set, Low[0]: 22039
+[DEBUG] 18.06.2025 12:01:55 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:55, High: 22039, Low: 22039, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22039, TP: 22041,875, SL: not set, Low[0]: 22039
+[DEBUG] 18.06.2025 12:01:55 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:55, High: 22039,25, Low: 22039,25, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22039,25, TP: 22041,875, SL: not set, Low[0]: 22039,25
+[DEBUG] 18.06.2025 12:01:55 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:55, High: 22039,5, Low: 22039,5, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22039,5, TP: 22041,875, SL: not set, Low[0]: 22039,5
+[DEBUG] 18.06.2025 12:01:55 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:55, High: 22039,5, Low: 22039,5, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22039,5, TP: 22041,875, SL: not set, Low[0]: 22039,5
+[DEBUG] 18.06.2025 12:01:55 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:55, High: 22040, Low: 22040, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22040, TP: 22041,875, SL: not set, Low[0]: 22040
+[DEBUG] 18.06.2025 12:01:55 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:55, High: 22039,25, Low: 22039,25, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22039,25, TP: 22041,875, SL: not set, Low[0]: 22039,25
+[DEBUG] 18.06.2025 12:01:56 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:56, High: 22040, Low: 22040, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22040, TP: 22041,875, SL: not set, Low[0]: 22040
+[DEBUG] 18.06.2025 12:01:56 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:56, High: 22039,75, Low: 22039,75, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22039,75, TP: 22041,875, SL: not set, Low[0]: 22039,75
+[DEBUG] 18.06.2025 12:01:56 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:56, High: 22039,75, Low: 22039,75, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22039,75, TP: 22041,875, SL: not set, Low[0]: 22039,75
+[DEBUG] 18.06.2025 12:01:57 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:57, High: 22039,5, Low: 22039,5, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22039,5, TP: 22041,875, SL: not set, Low[0]: 22039,5
+[DEBUG] 18.06.2025 12:01:57 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:57, High: 22039,5, Low: 22039,5, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22039,5, TP: 22041,875, SL: not set, Low[0]: 22039,5
+[DEBUG] 18.06.2025 12:01:57 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:57, High: 22040, Low: 22040, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22040, TP: 22041,875, SL: not set, Low[0]: 22040
+[DEBUG] 18.06.2025 12:01:57 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:57, High: 22040, Low: 22040, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22040, TP: 22041,875, SL: not set, Low[0]: 22040
+[DEBUG] 18.06.2025 12:01:57 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:57, High: 22040, Low: 22040, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22040, TP: 22041,875, SL: not set, Low[0]: 22040
+[DEBUG] 18.06.2025 12:01:57 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:57, High: 22040,25, Low: 22040,25, currentLevel: 22039,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22041,875, SL: not set
+[DEBUG LONG] High[0]: 22040,25, TP: 22041,875, SL: not set, Low[0]: 22040,25
+[DEBUG] 18.06.2025 12:01:57 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22039,375 вне диапазона 22039,5-22040,25, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:01:57, High: 22040,25, Low: 22040,25, currentLevel: 22039,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22040,625, SHORT: Low: 22040,25 <= 22039,125
+[DEBUG] 18.06.2025 12:01:57 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:57, High: 22040,25, Low: 22040,25, currentLevel: 22039,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,25 >= 22040,625, SHORT: Low: 22040,25 <= 22039,125
+[DEBUG] 18.06.2025 12:01:57 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:57, High: 22040,5, Low: 22040,5, currentLevel: 22039,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,5 >= 22040,625, SHORT: Low: 22040,5 <= 22039,125
+[DEBUG] 18.06.2025 12:01:57 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:57, High: 22040,5, Low: 22040,5, currentLevel: 22039,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,5 >= 22040,625, SHORT: Low: 22040,5 <= 22039,125
+[DEBUG] 18.06.2025 12:01:57 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:57, High: 22040,5, Low: 22040,5, currentLevel: 22039,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,5 >= 22040,625, SHORT: Low: 22040,5 <= 22039,125
+[DEBUG] 18.06.2025 12:01:57 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22039,875 вне диапазона 22040-22040,75, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:01:57, High: 22040,75, Low: 22040,75, currentLevel: 22040,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,75 >= 22041,125, SHORT: Low: 22040,75 <= 22039,625
+[DEBUG] 18.06.2025 12:01:57 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:57, High: 22040,75, Low: 22040,75, currentLevel: 22040,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,75 >= 22041,125, SHORT: Low: 22040,75 <= 22039,625
+[DEBUG] 18.06.2025 12:01:57 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:57, High: 22040,75, Low: 22040,75, currentLevel: 22040,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,75 >= 22041,125, SHORT: Low: 22040,75 <= 22039,625
+[DEBUG] 18.06.2025 12:01:57 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:57, High: 22041, Low: 22041, currentLevel: 22040,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041 >= 22041,125, SHORT: Low: 22041 <= 22039,625
+[DEBUG] 18.06.2025 12:01:57 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:57, High: 22040,75, Low: 22040,75, currentLevel: 22040,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,75 >= 22041,125, SHORT: Low: 22040,75 <= 22039,625
+[DEBUG] 18.06.2025 12:01:57 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:01:57, High: 22040,75, Low: 22040,75, currentLevel: 22040,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22040,75 >= 22041,125, SHORT: Low: 22040,75 <= 22039,625
+[DEBUG] 18.06.2025 12:01:59 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22040,375 вне диапазона 22040,5-22041,25, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:01:59, High: 22041,25, Low: 22041,25, currentLevel: 22040,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,25 >= 22041,625, SHORT: Low: 22041,25 <= 22040,125
+[DEBUG] 18.06.2025 12:02:00 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:00, High: 22041,25, Low: 22041,25, currentLevel: 22040,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,25 >= 22041,625, SHORT: Low: 22041,25 <= 22040,125
+[DEBUG] 18.06.2025 12:02:00 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:00, High: 22041,25, Low: 22041,25, currentLevel: 22040,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,25 >= 22041,625, SHORT: Low: 22041,25 <= 22040,125
+[DEBUG] 18.06.2025 12:02:00 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:00, High: 22041,25, Low: 22041,25, currentLevel: 22040,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,25 >= 22041,625, SHORT: Low: 22041,25 <= 22040,125
+[DEBUG] 18.06.2025 12:02:01 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:01, High: 22041, Low: 22041, currentLevel: 22040,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041 >= 22041,625, SHORT: Low: 22041 <= 22040,125
+[DEBUG] 18.06.2025 12:02:01 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:01, High: 22041, Low: 22041, currentLevel: 22040,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041 >= 22041,625, SHORT: Low: 22041 <= 22040,125
+[DEBUG] 18.06.2025 12:02:01 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:01, High: 22041,5, Low: 22041,5, currentLevel: 22040,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,5 >= 22041,625, SHORT: Low: 22041,5 <= 22040,125
+[DEBUG] 18.06.2025 12:02:01 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:01, High: 22041,5, Low: 22041,5, currentLevel: 22040,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,5 >= 22041,625, SHORT: Low: 22041,5 <= 22040,125
+[DEBUG] 18.06.2025 12:02:01 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:01, High: 22041,5, Low: 22041,5, currentLevel: 22040,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,5 >= 22041,625, SHORT: Low: 22041,5 <= 22040,125
+[DEBUG] 18.06.2025 12:02:01 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22040,875 вне диапазона 22041-22041,5, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:01, High: 22041,5, Low: 22041,5, currentLevel: 22041,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,5 >= 22042, SHORT: Low: 22041,5 <= 22040,5
+[DEBUG] 18.06.2025 12:02:01 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:01, High: 22041,75, Low: 22041,75, currentLevel: 22041,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,75 >= 22042, SHORT: Low: 22041,75 <= 22040,5
+[DEBUG] 18.06.2025 12:02:01 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:01, High: 22041,75, Low: 22041,75, currentLevel: 22041,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,75 >= 22042, SHORT: Low: 22041,75 <= 22040,5
+[DEBUG] 18.06.2025 12:02:01 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:01, High: 22041,25, Low: 22041,25, currentLevel: 22041,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,25 >= 22042, SHORT: Low: 22041,25 <= 22040,5
+[DEBUG] 18.06.2025 12:02:02 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:02, High: 22041,25, Low: 22041,25, currentLevel: 22041,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,25 >= 22042, SHORT: Low: 22041,25 <= 22040,5
+[DEBUG] 18.06.2025 12:02:02 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:02, High: 22041,25, Low: 22041,25, currentLevel: 22041,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,25 >= 22042, SHORT: Low: 22041,25 <= 22040,5
+[DEBUG] 18.06.2025 12:02:02 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:02, High: 22041, Low: 22041, currentLevel: 22041,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041 >= 22042, SHORT: Low: 22041 <= 22040,5
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22041,75, Low: 22041,75, currentLevel: 22041,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,75 >= 22042, SHORT: Low: 22041,75 <= 22040,5
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042, Low: 22042, currentLevel: 22041,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22042, SHORT: Low: 22042 <= 22040,5
+[ORDER] LONG ENTRY at 22042, TP at 22043,75, Level: 22041,25
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042, Low: 22042, currentLevel: 22041,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22043,75, SL: not set
+[DEBUG LONG] High[0]: 22042, TP: 22043,75, SL: not set, Low[0]: 22042
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042, Low: 22042, currentLevel: 22041,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22043,75, SL: not set
+[DEBUG LONG] High[0]: 22042, TP: 22043,75, SL: not set, Low[0]: 22042
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042, Low: 22042, currentLevel: 22041,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22043,75, SL: not set
+[DEBUG LONG] High[0]: 22042, TP: 22043,75, SL: not set, Low[0]: 22042
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22041,75, Low: 22041,75, currentLevel: 22041,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22043,75, SL: not set
+[DEBUG LONG] High[0]: 22041,75, TP: 22043,75, SL: not set, Low[0]: 22041,75
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042, Low: 22042, currentLevel: 22041,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22043,75, SL: not set
+[DEBUG LONG] High[0]: 22042, TP: 22043,75, SL: not set, Low[0]: 22042
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042, Low: 22042, currentLevel: 22041,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22043,75, SL: not set
+[DEBUG LONG] High[0]: 22042, TP: 22043,75, SL: not set, Low[0]: 22042
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042, Low: 22042, currentLevel: 22041,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22043,75, SL: not set
+[DEBUG LONG] High[0]: 22042, TP: 22043,75, SL: not set, Low[0]: 22042
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22041,25 вне диапазона 22041,75-22042, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042, Low: 22042, currentLevel: 22041,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22042,625, SHORT: Low: 22042 <= 22041,125
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042, Low: 22042, currentLevel: 22041,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22042,625, SHORT: Low: 22042 <= 22041,125
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042, Low: 22042, currentLevel: 22041,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22042,625, SHORT: Low: 22042 <= 22041,125
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042, Low: 22042, currentLevel: 22041,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22042,625, SHORT: Low: 22042 <= 22041,125
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042, Low: 22042, currentLevel: 22041,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22042,625, SHORT: Low: 22042 <= 22041,125
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042, Low: 22042, currentLevel: 22041,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22042,625, SHORT: Low: 22042 <= 22041,125
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22041,875 вне диапазона 22042-22042, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042, Low: 22042, currentLevel: 22042, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22042,75, SHORT: Low: 22042 <= 22041,25
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042, Low: 22042, currentLevel: 22042, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22042,75, SHORT: Low: 22042 <= 22041,25
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042, Low: 22042, currentLevel: 22042, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22042,75, SHORT: Low: 22042 <= 22041,25
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042, Low: 22042, currentLevel: 22042, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22042,75, SHORT: Low: 22042 <= 22041,25
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042,25, Low: 22042,25, currentLevel: 22042, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,25 >= 22042,75, SHORT: Low: 22042,25 <= 22041,25
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042,5, Low: 22042,5, currentLevel: 22042, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,5 >= 22042,75, SHORT: Low: 22042,5 <= 22041,25
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042,5, Low: 22042,5, currentLevel: 22042, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,5 >= 22042,75, SHORT: Low: 22042,5 <= 22041,25
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042,75, Low: 22042,75, currentLevel: 22042, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,75 >= 22042,75, SHORT: Low: 22042,75 <= 22041,25
+[ORDER] LONG ENTRY at 22042,75, TP at 22044,5, Level: 22042
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042,25, Low: 22042,25, currentLevel: 22042, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22044,5, SL: not set
+[DEBUG LONG] High[0]: 22042,25, TP: 22044,5, SL: not set, Low[0]: 22042,25
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042,25, Low: 22042,25, currentLevel: 22042, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22044,5, SL: not set
+[DEBUG LONG] High[0]: 22042,25, TP: 22044,5, SL: not set, Low[0]: 22042,25
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042,25, Low: 22042,25, currentLevel: 22042, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22044,5, SL: not set
+[DEBUG LONG] High[0]: 22042,25, TP: 22044,5, SL: not set, Low[0]: 22042,25
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042, Low: 22042, currentLevel: 22042, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22044,5, SL: not set
+[DEBUG LONG] High[0]: 22042, TP: 22044,5, SL: not set, Low[0]: 22042
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042,25, Low: 22042,25, currentLevel: 22042, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22044,5, SL: not set
+[DEBUG LONG] High[0]: 22042,25, TP: 22044,5, SL: not set, Low[0]: 22042,25
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042,75, Low: 22042,75, currentLevel: 22042, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22044,5, SL: not set
+[DEBUG LONG] High[0]: 22042,75, TP: 22044,5, SL: not set, Low[0]: 22042,75
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042,75, Low: 22042,75, currentLevel: 22042, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22044,5, SL: not set
+[DEBUG LONG] High[0]: 22042,75, TP: 22044,5, SL: not set, Low[0]: 22042,75
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042,75, Low: 22042,75, currentLevel: 22042, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22044,5, SL: not set
+[DEBUG LONG] High[0]: 22042,75, TP: 22044,5, SL: not set, Low[0]: 22042,75
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042,5, Low: 22042,5, currentLevel: 22042, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22044,5, SL: not set
+[DEBUG LONG] High[0]: 22042,5, TP: 22044,5, SL: not set, Low[0]: 22042,5
+[DEBUG] 18.06.2025 12:02:03 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:03, High: 22042,5, Low: 22042,5, currentLevel: 22042, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22044,5, SL: not set
+[DEBUG LONG] High[0]: 22042,5, TP: 22044,5, SL: not set, Low[0]: 22042,5
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043, Low: 22043, currentLevel: 22042, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22044,5, SL: not set
+[ORDER] LONG STOP can be simulated at 22042,75
+[DEBUG LONG] High[0]: 22043, TP: 22044,5, SL: 22042,75, Low[0]: 22043
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043, Low: 22043, currentLevel: 22042, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22044,5, SL: 22042,75
+[DEBUG LONG] High[0]: 22043, TP: 22044,5, SL: 22042,75, Low[0]: 22043
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043, Low: 22043, currentLevel: 22042, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22044,5, SL: 22042,75
+[DEBUG LONG] High[0]: 22043, TP: 22044,5, SL: 22042,75, Low[0]: 22043
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22042 вне диапазона 22042,25-22043, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043, Low: 22043, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22043,375, SHORT: Low: 22043 <= 22041,875
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043, Low: 22043, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22043,375, SHORT: Low: 22043 <= 22041,875
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043, Low: 22043, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22043,375, SHORT: Low: 22043 <= 22041,875
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043, Low: 22043, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22043,375, SHORT: Low: 22043 <= 22041,875
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043, Low: 22043, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22043,375, SHORT: Low: 22043 <= 22041,875
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043, Low: 22043, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22043,375, SHORT: Low: 22043 <= 22041,875
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22042,625 вне диапазона 22043-22043, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043, Low: 22043, currentLevel: 22043, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22043,75, SHORT: Low: 22043 <= 22042,25
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043, Low: 22043, currentLevel: 22043, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22043,75, SHORT: Low: 22043 <= 22042,25
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,25, Low: 22043,25, currentLevel: 22043, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,75, SHORT: Low: 22043,25 <= 22042,25
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,25, Low: 22043,25, currentLevel: 22043, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,75, SHORT: Low: 22043,25 <= 22042,25
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,25, Low: 22043,25, currentLevel: 22043, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,75, SHORT: Low: 22043,25 <= 22042,25
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,25, Low: 22043,25, currentLevel: 22043, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,75, SHORT: Low: 22043,25 <= 22042,25
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,25, Low: 22043,25, currentLevel: 22043, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,75, SHORT: Low: 22043,25 <= 22042,25
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,25, Low: 22043,25, currentLevel: 22043, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,75, SHORT: Low: 22043,25 <= 22042,25
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,25, Low: 22043,25, currentLevel: 22043, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,75, SHORT: Low: 22043,25 <= 22042,25
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,25, Low: 22043,25, currentLevel: 22043, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,75, SHORT: Low: 22043,25 <= 22042,25
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,5, Low: 22043,5, currentLevel: 22043, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22043,75, SHORT: Low: 22043,5 <= 22042,25
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22043 вне диапазона 22043,25-22043,5, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,5, Low: 22043,5, currentLevel: 22043,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22044,125, SHORT: Low: 22043,5 <= 22042,625
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,5, Low: 22043,5, currentLevel: 22043,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22044,125, SHORT: Low: 22043,5 <= 22042,625
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,5, Low: 22043,5, currentLevel: 22043,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22044,125, SHORT: Low: 22043,5 <= 22042,625
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,5, Low: 22043,5, currentLevel: 22043,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22044,125, SHORT: Low: 22043,5 <= 22042,625
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,5, Low: 22043,5, currentLevel: 22043,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22044,125, SHORT: Low: 22043,5 <= 22042,625
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,75, Low: 22043,75, currentLevel: 22043,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,75 >= 22044,125, SHORT: Low: 22043,75 <= 22042,625
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,75, Low: 22043,75, currentLevel: 22043,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,75 >= 22044,125, SHORT: Low: 22043,75 <= 22042,625
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,75, Low: 22043,75, currentLevel: 22043,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,75 >= 22044,125, SHORT: Low: 22043,75 <= 22042,625
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22043,375 вне диапазона 22043,5-22043,75, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,75, Low: 22043,75, currentLevel: 22043,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,75 >= 22044,375, SHORT: Low: 22043,75 <= 22042,875
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,75, Low: 22043,75, currentLevel: 22043,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,75 >= 22044,375, SHORT: Low: 22043,75 <= 22042,875
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22044, Low: 22044, currentLevel: 22043,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044 >= 22044,375, SHORT: Low: 22044 <= 22042,875
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22044, Low: 22044, currentLevel: 22043,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044 >= 22044,375, SHORT: Low: 22044 <= 22042,875
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22044, Low: 22044, currentLevel: 22043,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044 >= 22044,375, SHORT: Low: 22044 <= 22042,875
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,75, Low: 22043,75, currentLevel: 22043,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,75 >= 22044,375, SHORT: Low: 22043,75 <= 22042,875
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,5, Low: 22043,5, currentLevel: 22043,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22044,375, SHORT: Low: 22043,5 <= 22042,875
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,5, Low: 22043,5, currentLevel: 22043,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22044,375, SHORT: Low: 22043,5 <= 22042,875
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,5, Low: 22043,5, currentLevel: 22043,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22044,375, SHORT: Low: 22043,5 <= 22042,875
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,5, Low: 22043,5, currentLevel: 22043,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22044,375, SHORT: Low: 22043,5 <= 22042,875
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043, Low: 22043, currentLevel: 22043,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22044,375, SHORT: Low: 22043 <= 22042,875
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,25, Low: 22043,25, currentLevel: 22043,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22044,375, SHORT: Low: 22043,25 <= 22042,875
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,25, Low: 22043,25, currentLevel: 22043,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22044,375, SHORT: Low: 22043,25 <= 22042,875
+[Алерт] VOLMA и StdDev растут одновременно. Время: 12:02:04.340
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,25, Low: 22043,25, currentLevel: 22043,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22044,375, SHORT: Low: 22043,25 <= 22042,875
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043, Low: 22043, currentLevel: 22043,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22044,375, SHORT: Low: 22043 <= 22042,875
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22043,625 вне диапазона 22043-22043,5, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,25, Low: 22043,25, currentLevel: 22043,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22044, SHORT: Low: 22043,25 <= 22042,5
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043,25, Low: 22043,25, currentLevel: 22043,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22044, SHORT: Low: 22043,25 <= 22042,5
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043, Low: 22043, currentLevel: 22043,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22044, SHORT: Low: 22043 <= 22042,5
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043, Low: 22043, currentLevel: 22043,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22044, SHORT: Low: 22043 <= 22042,5
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043, Low: 22043, currentLevel: 22043,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22044, SHORT: Low: 22043 <= 22042,5
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043, Low: 22043, currentLevel: 22043,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22044, SHORT: Low: 22043 <= 22042,5
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043, Low: 22043, currentLevel: 22043,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22044, SHORT: Low: 22043 <= 22042,5
+[DEBUG] 18.06.2025 12:02:04 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:04, High: 22043, Low: 22043, currentLevel: 22043,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22044, SHORT: Low: 22043 <= 22042,5
+[DEBUG] 18.06.2025 12:02:05 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:05, High: 22043,25, Low: 22043,25, currentLevel: 22043,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22044, SHORT: Low: 22043,25 <= 22042,5
+[DEBUG] 18.06.2025 12:02:05 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:05, High: 22043,25, Low: 22043,25, currentLevel: 22043,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22044, SHORT: Low: 22043,25 <= 22042,5
+[DEBUG] 18.06.2025 12:02:05 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:05, High: 22042,75, Low: 22042,75, currentLevel: 22043,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,75 >= 22044, SHORT: Low: 22042,75 <= 22042,5
+[DEBUG] 18.06.2025 12:02:05 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:05, High: 22042,75, Low: 22042,75, currentLevel: 22043,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,75 >= 22044, SHORT: Low: 22042,75 <= 22042,5
+[DEBUG] 18.06.2025 12:02:05 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:05, High: 22042,75, Low: 22042,75, currentLevel: 22043,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,75 >= 22044, SHORT: Low: 22042,75 <= 22042,5
+[DEBUG] 18.06.2025 12:02:05 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:05, High: 22042,75, Low: 22042,75, currentLevel: 22043,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,75 >= 22044, SHORT: Low: 22042,75 <= 22042,5
+[DEBUG] 18.06.2025 12:02:05 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:05, High: 22042,75, Low: 22042,75, currentLevel: 22043,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,75 >= 22044, SHORT: Low: 22042,75 <= 22042,5
+[DEBUG] 18.06.2025 12:02:05 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:05, High: 22042,75, Low: 22042,75, currentLevel: 22043,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,75 >= 22044, SHORT: Low: 22042,75 <= 22042,5
+[DEBUG] 18.06.2025 12:02:05 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:05, High: 22042,75, Low: 22042,75, currentLevel: 22043,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,75 >= 22044, SHORT: Low: 22042,75 <= 22042,5
+[DEBUG] 18.06.2025 12:02:05 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:05, High: 22042,75, Low: 22042,75, currentLevel: 22043,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,75 >= 22044, SHORT: Low: 22042,75 <= 22042,5
+[DEBUG] 18.06.2025 12:02:05 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:05, High: 22042,75, Low: 22042,75, currentLevel: 22043,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,75 >= 22044, SHORT: Low: 22042,75 <= 22042,5
+[DEBUG] 18.06.2025 12:02:05 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22043,25 вне диапазона 22042,5-22042,75, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:05, High: 22042,5, Low: 22042,5, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,5 >= 22043,375, SHORT: Low: 22042,5 <= 22041,875
+[DEBUG] 18.06.2025 12:02:05 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:05, High: 22042,5, Low: 22042,5, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,5 >= 22043,375, SHORT: Low: 22042,5 <= 22041,875
+[DEBUG] 18.06.2025 12:02:05 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:05, High: 22042,5, Low: 22042,5, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,5 >= 22043,375, SHORT: Low: 22042,5 <= 22041,875
+[DEBUG] 18.06.2025 12:02:05 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:05, High: 22042,5, Low: 22042,5, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,5 >= 22043,375, SHORT: Low: 22042,5 <= 22041,875
+[DEBUG] 18.06.2025 12:02:06 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:06, High: 22043,25, Low: 22043,25, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,375, SHORT: Low: 22043,25 <= 22041,875
+[DEBUG] 18.06.2025 12:02:07 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:07, High: 22043, Low: 22043, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22043,375, SHORT: Low: 22043 <= 22041,875
+[DEBUG] 18.06.2025 12:02:08 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:08, High: 22043, Low: 22043, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22043,375, SHORT: Low: 22043 <= 22041,875
+[DEBUG] 18.06.2025 12:02:08 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:08, High: 22043,25, Low: 22043,25, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,375, SHORT: Low: 22043,25 <= 22041,875
+[DEBUG] 18.06.2025 12:02:08 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:08, High: 22043,25, Low: 22043,25, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,375, SHORT: Low: 22043,25 <= 22041,875
+[DEBUG] 18.06.2025 12:02:08 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:08, High: 22043,25, Low: 22043,25, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,375, SHORT: Low: 22043,25 <= 22041,875
+[DEBUG] 18.06.2025 12:02:08 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:08, High: 22043,25, Low: 22043,25, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,375, SHORT: Low: 22043,25 <= 22041,875
+[DEBUG] 18.06.2025 12:02:08 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:08, High: 22043,25, Low: 22043,25, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,375, SHORT: Low: 22043,25 <= 22041,875
+[DEBUG] 18.06.2025 12:02:08 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:08, High: 22043,25, Low: 22043,25, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,375, SHORT: Low: 22043,25 <= 22041,875
+[DEBUG] 18.06.2025 12:02:08 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22042,625 вне диапазона 22043-22043,25, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:08, High: 22043,25, Low: 22043,25, currentLevel: 22043,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,875, SHORT: Low: 22043,25 <= 22042,375
+[DEBUG] 18.06.2025 12:02:08 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:08, High: 22043,25, Low: 22043,25, currentLevel: 22043,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,875, SHORT: Low: 22043,25 <= 22042,375
+[DEBUG] 18.06.2025 12:02:08 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:08, High: 22043,5, Low: 22043,5, currentLevel: 22043,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22043,875, SHORT: Low: 22043,5 <= 22042,375
+[DEBUG] 18.06.2025 12:02:08 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22043,125 вне диапазона 22043,25-22043,5, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:08, High: 22043,5, Low: 22043,5, currentLevel: 22043,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22044,125, SHORT: Low: 22043,5 <= 22042,625
+[DEBUG] 18.06.2025 12:02:08 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:08, High: 22043,25, Low: 22043,25, currentLevel: 22043,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22044,125, SHORT: Low: 22043,25 <= 22042,625
+[DEBUG] 18.06.2025 12:02:08 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:08, High: 22043,25, Low: 22043,25, currentLevel: 22043,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22044,125, SHORT: Low: 22043,25 <= 22042,625
+[DEBUG] 18.06.2025 12:02:08 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:08, High: 22043, Low: 22043, currentLevel: 22043,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22044,125, SHORT: Low: 22043 <= 22042,625
+[DEBUG] 18.06.2025 12:02:08 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:08, High: 22043, Low: 22043, currentLevel: 22043,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22044,125, SHORT: Low: 22043 <= 22042,625
+[DEBUG] 18.06.2025 12:02:08 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:08, High: 22043,25, Low: 22043,25, currentLevel: 22043,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22044,125, SHORT: Low: 22043,25 <= 22042,625
+[DEBUG] 18.06.2025 12:02:08 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:08, High: 22043,25, Low: 22043,25, currentLevel: 22043,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22044,125, SHORT: Low: 22043,25 <= 22042,625
+[DEBUG] 18.06.2025 12:02:09 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:09, High: 22043,25, Low: 22043,25, currentLevel: 22043,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22044,125, SHORT: Low: 22043,25 <= 22042,625
+[DEBUG] 18.06.2025 12:02:09 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:09, High: 22043,25, Low: 22043,25, currentLevel: 22043,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22044,125, SHORT: Low: 22043,25 <= 22042,625
+[DEBUG] 18.06.2025 12:02:09 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:09, High: 22043,25, Low: 22043,25, currentLevel: 22043,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22044,125, SHORT: Low: 22043,25 <= 22042,625
+[DEBUG] 18.06.2025 12:02:09 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22043,375 вне диапазона 22043-22043,25, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:09, High: 22043,25, Low: 22043,25, currentLevel: 22043,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,875, SHORT: Low: 22043,25 <= 22042,375
+[DEBUG] 18.06.2025 12:02:09 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:09, High: 22043,25, Low: 22043,25, currentLevel: 22043,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,875, SHORT: Low: 22043,25 <= 22042,375
+[DEBUG] 18.06.2025 12:02:09 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:09, High: 22043,25, Low: 22043,25, currentLevel: 22043,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,875, SHORT: Low: 22043,25 <= 22042,375
+[DEBUG] 18.06.2025 12:02:09 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:09, High: 22043,25, Low: 22043,25, currentLevel: 22043,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,875, SHORT: Low: 22043,25 <= 22042,375
+[DEBUG] 18.06.2025 12:02:09 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:09, High: 22042,75, Low: 22042,75, currentLevel: 22043,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,75 >= 22043,875, SHORT: Low: 22042,75 <= 22042,375
+[DEBUG] 18.06.2025 12:02:09 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:09, High: 22042,75, Low: 22042,75, currentLevel: 22043,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,75 >= 22043,875, SHORT: Low: 22042,75 <= 22042,375
+[DEBUG] 18.06.2025 12:02:09 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:09, High: 22042,75, Low: 22042,75, currentLevel: 22043,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,75 >= 22043,875, SHORT: Low: 22042,75 <= 22042,375
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22043, Low: 22043, currentLevel: 22043,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22043,875, SHORT: Low: 22043 <= 22042,375
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22043,25, Low: 22043,25, currentLevel: 22043,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,875, SHORT: Low: 22043,25 <= 22042,375
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22043,25, Low: 22043,25, currentLevel: 22043,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,875, SHORT: Low: 22043,25 <= 22042,375
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22043,5, Low: 22043,5, currentLevel: 22043,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22043,875, SHORT: Low: 22043,5 <= 22042,375
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22043,5, Low: 22043,5, currentLevel: 22043,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22043,875, SHORT: Low: 22043,5 <= 22042,375
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22043,75, Low: 22043,75, currentLevel: 22043,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,75 >= 22043,875, SHORT: Low: 22043,75 <= 22042,375
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22043,5, Low: 22043,5, currentLevel: 22043,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22043,875, SHORT: Low: 22043,5 <= 22042,375
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22043,5, Low: 22043,5, currentLevel: 22043,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22043,875, SHORT: Low: 22043,5 <= 22042,375
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22043,5, Low: 22043,5, currentLevel: 22043,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22043,875, SHORT: Low: 22043,5 <= 22042,375
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22043,25, Low: 22043,25, currentLevel: 22043,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,875, SHORT: Low: 22043,25 <= 22042,375
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22043,125 вне диапазона 22043,25-22043,75, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22043,75, Low: 22043,75, currentLevel: 22043,5, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,75 >= 22044,25, SHORT: Low: 22043,75 <= 22042,75
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22043,75, Low: 22043,75, currentLevel: 22043,5, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,75 >= 22044,25, SHORT: Low: 22043,75 <= 22042,75
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22043,75, Low: 22043,75, currentLevel: 22043,5, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,75 >= 22044,25, SHORT: Low: 22043,75 <= 22042,75
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044, Low: 22044, currentLevel: 22043,5, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044 >= 22044,25, SHORT: Low: 22044 <= 22042,75
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044, Low: 22044, currentLevel: 22043,5, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044 >= 22044,25, SHORT: Low: 22044 <= 22042,75
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044, Low: 22044, currentLevel: 22043,5, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044 >= 22044,25, SHORT: Low: 22044 <= 22042,75
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044, Low: 22044, currentLevel: 22043,5, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044 >= 22044,25, SHORT: Low: 22044 <= 22042,75
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044, Low: 22044, currentLevel: 22043,5, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044 >= 22044,25, SHORT: Low: 22044 <= 22042,75
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044, Low: 22044, currentLevel: 22043,5, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044 >= 22044,25, SHORT: Low: 22044 <= 22042,75
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22043,5 вне диапазона 22043,75-22044, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044, Low: 22044, currentLevel: 22043,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044 >= 22044,625, SHORT: Low: 22044 <= 22043,125
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044, Low: 22044, currentLevel: 22043,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044 >= 22044,625, SHORT: Low: 22044 <= 22043,125
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044, Low: 22044, currentLevel: 22043,875, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044 >= 22044,625, SHORT: Low: 22044 <= 22043,125
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22043,875 вне диапазона 22044-22044, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044, Low: 22044, currentLevel: 22044, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044 >= 22044,75, SHORT: Low: 22044 <= 22043,25
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,25, Low: 22044,25, currentLevel: 22044, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,25 >= 22044,75, SHORT: Low: 22044,25 <= 22043,25
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,25, Low: 22044,25, currentLevel: 22044, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,25 >= 22044,75, SHORT: Low: 22044,25 <= 22043,25
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,25, Low: 22044,25, currentLevel: 22044, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,25 >= 22044,75, SHORT: Low: 22044,25 <= 22043,25
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,25, Low: 22044,25, currentLevel: 22044, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,25 >= 22044,75, SHORT: Low: 22044,25 <= 22043,25
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044, Low: 22044, currentLevel: 22044, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044 >= 22044,75, SHORT: Low: 22044 <= 22043,25
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044, Low: 22044, currentLevel: 22044, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044 >= 22044,75, SHORT: Low: 22044 <= 22043,25
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,25, Low: 22044,25, currentLevel: 22044, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,25 >= 22044,75, SHORT: Low: 22044,25 <= 22043,25
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,25, Low: 22044,25, currentLevel: 22044, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,25 >= 22044,75, SHORT: Low: 22044,25 <= 22043,25
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,5, Low: 22044,5, currentLevel: 22044, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,5 >= 22044,75, SHORT: Low: 22044,5 <= 22043,25
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,5, Low: 22044,5, currentLevel: 22044, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,5 >= 22044,75, SHORT: Low: 22044,5 <= 22043,25
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,5, Low: 22044,5, currentLevel: 22044, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,5 >= 22044,75, SHORT: Low: 22044,5 <= 22043,25
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,5, Low: 22044,5, currentLevel: 22044, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,5 >= 22044,75, SHORT: Low: 22044,5 <= 22043,25
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,5, Low: 22044,5, currentLevel: 22044, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,5 >= 22044,75, SHORT: Low: 22044,5 <= 22043,25
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,5, Low: 22044,5, currentLevel: 22044, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,5 >= 22044,75, SHORT: Low: 22044,5 <= 22043,25
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,5, Low: 22044,5, currentLevel: 22044, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,5 >= 22044,75, SHORT: Low: 22044,5 <= 22043,25
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22044 вне диапазона 22044,25-22044,5, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,25, Low: 22044,25, currentLevel: 22044,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,25 >= 22045,125, SHORT: Low: 22044,25 <= 22043,625
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,5, Low: 22044,5, currentLevel: 22044,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,5 >= 22045,125, SHORT: Low: 22044,5 <= 22043,625
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,75, Low: 22044,75, currentLevel: 22044,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,75 >= 22045,125, SHORT: Low: 22044,75 <= 22043,625
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,75, Low: 22044,75, currentLevel: 22044,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,75 >= 22045,125, SHORT: Low: 22044,75 <= 22043,625
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,75, Low: 22044,75, currentLevel: 22044,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,75 >= 22045,125, SHORT: Low: 22044,75 <= 22043,625
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,75, Low: 22044,75, currentLevel: 22044,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,75 >= 22045,125, SHORT: Low: 22044,75 <= 22043,625
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,75, Low: 22044,75, currentLevel: 22044,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,75 >= 22045,125, SHORT: Low: 22044,75 <= 22043,625
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,75, Low: 22044,75, currentLevel: 22044,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,75 >= 22045,125, SHORT: Low: 22044,75 <= 22043,625
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,75, Low: 22044,75, currentLevel: 22044,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,75 >= 22045,125, SHORT: Low: 22044,75 <= 22043,625
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,75, Low: 22044,75, currentLevel: 22044,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,75 >= 22045,125, SHORT: Low: 22044,75 <= 22043,625
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22044,375 вне диапазона 22044,5-22045, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22045, Low: 22045, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22045 >= 22045,5, SHORT: Low: 22045 <= 22044
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22045, Low: 22045, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22045 >= 22045,5, SHORT: Low: 22045 <= 22044
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22045, Low: 22045, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22045 >= 22045,5, SHORT: Low: 22045 <= 22044
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22045, Low: 22045, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22045 >= 22045,5, SHORT: Low: 22045 <= 22044
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,75, Low: 22044,75, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,75 >= 22045,5, SHORT: Low: 22044,75 <= 22044
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22045, Low: 22045, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22045 >= 22045,5, SHORT: Low: 22045 <= 22044
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22045, Low: 22045, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22045 >= 22045,5, SHORT: Low: 22045 <= 22044
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22045, Low: 22045, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22045 >= 22045,5, SHORT: Low: 22045 <= 22044
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22045, Low: 22045, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22045 >= 22045,5, SHORT: Low: 22045 <= 22044
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22045, Low: 22045, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22045 >= 22045,5, SHORT: Low: 22045 <= 22044
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22045, Low: 22045, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22045 >= 22045,5, SHORT: Low: 22045 <= 22044
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,75, Low: 22044,75, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,75 >= 22045,5, SHORT: Low: 22044,75 <= 22044
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,75, Low: 22044,75, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,75 >= 22045,5, SHORT: Low: 22044,75 <= 22044
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,75, Low: 22044,75, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,75 >= 22045,5, SHORT: Low: 22044,75 <= 22044
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,75, Low: 22044,75, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,75 >= 22045,5, SHORT: Low: 22044,75 <= 22044
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,75, Low: 22044,75, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,75 >= 22045,5, SHORT: Low: 22044,75 <= 22044
+[DEBUG] 18.06.2025 12:02:10 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:10, High: 22044,75, Low: 22044,75, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,75 >= 22045,5, SHORT: Low: 22044,75 <= 22044
+[DEBUG] 18.06.2025 12:02:11 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:11, High: 22045, Low: 22045, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22045 >= 22045,5, SHORT: Low: 22045 <= 22044
+[DEBUG] 18.06.2025 12:02:11 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:11, High: 22044,5, Low: 22044,5, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,5 >= 22045,5, SHORT: Low: 22044,5 <= 22044
+[DEBUG] 18.06.2025 12:02:11 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:11, High: 22044,5, Low: 22044,5, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044,5 >= 22045,5, SHORT: Low: 22044,5 <= 22044
+[DEBUG] 18.06.2025 12:02:11 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:11, High: 22044, Low: 22044, currentLevel: 22044,75, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044 >= 22045,5, SHORT: Low: 22044 <= 22044
+[ORDER] SHORT ENTRY at 22044, TP at 22042,25, Level: 22044,75
+[DEBUG] 18.06.2025 12:02:11 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:11, High: 22044,5, Low: 22044,5, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22044,5, TP: 22042,25, SL: not set, High[0]: 22044,5
+[DEBUG] 18.06.2025 12:02:11 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:11, High: 22044,5, Low: 22044,5, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22044,5, TP: 22042,25, SL: not set, High[0]: 22044,5
+[DEBUG] 18.06.2025 12:02:11 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:11, High: 22044,75, Low: 22044,75, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22044,75, TP: 22042,25, SL: not set, High[0]: 22044,75
+[DEBUG] 18.06.2025 12:02:11 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:11, High: 22044,75, Low: 22044,75, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22044,75, TP: 22042,25, SL: not set, High[0]: 22044,75
+[DEBUG] 18.06.2025 12:02:11 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:11, High: 22044,75, Low: 22044,75, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22044,75, TP: 22042,25, SL: not set, High[0]: 22044,75
+[DEBUG] 18.06.2025 12:02:11 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:11, High: 22044,75, Low: 22044,75, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22044,75, TP: 22042,25, SL: not set, High[0]: 22044,75
+[DEBUG] 18.06.2025 12:02:11 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:11, High: 22044,25, Low: 22044,25, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22044,25, TP: 22042,25, SL: not set, High[0]: 22044,25
+[DEBUG] 18.06.2025 12:02:12 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:12, High: 22045, Low: 22045, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22045, TP: 22042,25, SL: not set, High[0]: 22045
+[DEBUG] 18.06.2025 12:02:12 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:12, High: 22044,5, Low: 22044,5, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22044,5, TP: 22042,25, SL: not set, High[0]: 22044,5
+[DEBUG] 18.06.2025 12:02:12 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:12, High: 22044,5, Low: 22044,5, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22044,5, TP: 22042,25, SL: not set, High[0]: 22044,5
+[DEBUG] 18.06.2025 12:02:12 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:12, High: 22044,5, Low: 22044,5, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22044,5, TP: 22042,25, SL: not set, High[0]: 22044,5
+[DEBUG] 18.06.2025 12:02:12 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:12, High: 22045,25, Low: 22045,25, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22045,25, TP: 22042,25, SL: not set, High[0]: 22045,25
+[DEBUG] 18.06.2025 12:02:12 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:12, High: 22045,25, Low: 22045,25, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22045,25, TP: 22042,25, SL: not set, High[0]: 22045,25
+[DEBUG] 18.06.2025 12:02:12 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:12, High: 22045,25, Low: 22045,25, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22045,25, TP: 22042,25, SL: not set, High[0]: 22045,25
+[DEBUG] 18.06.2025 12:02:12 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:12, High: 22045,25, Low: 22045,25, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22045,25, TP: 22042,25, SL: not set, High[0]: 22045,25
+[DEBUG] 18.06.2025 12:02:12 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:12, High: 22045,5, Low: 22045,5, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22045,5, TP: 22042,25, SL: not set, High[0]: 22045,5
+[DEBUG] 18.06.2025 12:02:12 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:12, High: 22045,5, Low: 22045,5, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22045,5, TP: 22042,25, SL: not set, High[0]: 22045,5
+[DEBUG] 18.06.2025 12:02:12 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:12, High: 22044,75, Low: 22044,75, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22044,75, TP: 22042,25, SL: not set, High[0]: 22044,75
+[DEBUG] 18.06.2025 12:02:12 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:12, High: 22044,5, Low: 22044,5, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22044,5, TP: 22042,25, SL: not set, High[0]: 22044,5
+[DEBUG] 18.06.2025 12:02:12 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:12, High: 22044,25, Low: 22044,25, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22044,25, TP: 22042,25, SL: not set, High[0]: 22044,25
+[DEBUG] 18.06.2025 12:02:12 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:12, High: 22044, Low: 22044, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22044, TP: 22042,25, SL: not set, High[0]: 22044
+[DEBUG] 18.06.2025 12:02:12 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:12, High: 22044, Low: 22044, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22044, TP: 22042,25, SL: not set, High[0]: 22044
+[DEBUG] 18.06.2025 12:02:12 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:12, High: 22044, Low: 22044, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22044, TP: 22042,25, SL: not set, High[0]: 22044
+[DEBUG] 18.06.2025 12:02:13 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:13, High: 22044, Low: 22044, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[DEBUG SHORT] Low[0]: 22044, TP: 22042,25, SL: not set, High[0]: 22044
+[DEBUG] 18.06.2025 12:02:13 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:13, High: 22043,75, Low: 22043,75, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: not set
+[ORDER] SHORT STOP can be simulated at 22044
+[DEBUG SHORT] Low[0]: 22043,75, TP: 22042,25, SL: 22044, High[0]: 22043,75
+[DEBUG] 18.06.2025 12:02:13 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:13, High: 22044,25, Low: 22044,25, currentLevel: 22044,75, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22042,25, SL: 22044
+[DEBUG SHORT] Low[0]: 22044,25, TP: 22042,25, SL: 22044, High[0]: 22044,25
+[ORDER] SHORT STOP HIT at 22044 (High[0]=22044,25)
+[ORDER] Закрытие. Новый уровень: 22044,625, Диапазон: 22043,75-22045,5, center=22044,625, minLevel=22044,5, maxLevel=22044,75
+[DEBUG] 18.06.2025 12:02:13 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:13, High: 22044,25, Low: 22044,25, currentLevel: 22044,625, orderActive: False, canOpenNewOrder: False
+[DEBUG RETURN] Price returned to level zone. Can open new order.
+[DEBUG ENTRY] Check LONG: High: 22044,25 >= 22045,375, SHORT: Low: 22044,25 <= 22043,875
+[DEBUG] 18.06.2025 12:02:14 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22044,625 вне диапазона 22043,75-22044,5, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:14, High: 22044, Low: 22044, currentLevel: 22044,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22044 >= 22044,875, SHORT: Low: 22044 <= 22043,375
+[DEBUG] 18.06.2025 12:02:14 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:14, High: 22043,75, Low: 22043,75, currentLevel: 22044,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,75 >= 22044,875, SHORT: Low: 22043,75 <= 22043,375
+[DEBUG] 18.06.2025 12:02:14 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:14, High: 22043,75, Low: 22043,75, currentLevel: 22044,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,75 >= 22044,875, SHORT: Low: 22043,75 <= 22043,375
+[DEBUG] 18.06.2025 12:02:14 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:14, High: 22043,5, Low: 22043,5, currentLevel: 22044,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22044,875, SHORT: Low: 22043,5 <= 22043,375
+[DEBUG] 18.06.2025 12:02:14 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:14, High: 22043,5, Low: 22043,5, currentLevel: 22044,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22044,875, SHORT: Low: 22043,5 <= 22043,375
+[DEBUG] 18.06.2025 12:02:14 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:14, High: 22043,5, Low: 22043,5, currentLevel: 22044,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22044,875, SHORT: Low: 22043,5 <= 22043,375
+[DEBUG] 18.06.2025 12:02:14 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:14, High: 22043,25, Low: 22043,25, currentLevel: 22044,125, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22044,875, SHORT: Low: 22043,25 <= 22043,375
+[ORDER] SHORT ENTRY at 22043,375, TP at 22041,625, Level: 22044,125
+[DEBUG] 18.06.2025 12:02:14 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:14, High: 22043, Low: 22043, currentLevel: 22044,125, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22041,625, SL: not set
+[ORDER] SHORT STOP can be simulated at 22043,375
+[DEBUG SHORT] Low[0]: 22043, TP: 22041,625, SL: 22043,375, High[0]: 22043
+[DEBUG] 18.06.2025 12:02:14 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:14, High: 22042,75, Low: 22042,75, currentLevel: 22044,125, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22041,625, SL: 22043,375
+[DEBUG SHORT] Low[0]: 22042,75, TP: 22041,625, SL: 22043,375, High[0]: 22042,75
+[DEBUG] 18.06.2025 12:02:14 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22044,125 вне диапазона 22042,75-22044, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:14, High: 22042,75, Low: 22042,75, currentLevel: 22043,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,75 >= 22044,125, SHORT: Low: 22042,75 <= 22042,625
+[DEBUG] 18.06.2025 12:02:14 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:14, High: 22042,25, Low: 22042,25, currentLevel: 22043,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,25 >= 22044,125, SHORT: Low: 22042,25 <= 22042,625
+[ORDER] SHORT ENTRY at 22042,625, TP at 22040,875, Level: 22043,375
+[DEBUG] 18.06.2025 12:02:14 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:14, High: 22042,5, Low: 22042,5, currentLevel: 22043,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22040,875, SL: not set
+[DEBUG SHORT] Low[0]: 22042,5, TP: 22040,875, SL: not set, High[0]: 22042,5
+[DEBUG] 18.06.2025 12:02:15 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:15, High: 22042, Low: 22042, currentLevel: 22043,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22040,875, SL: not set
+[ORDER] SHORT STOP can be simulated at 22042,625
+[DEBUG SHORT] Low[0]: 22042, TP: 22040,875, SL: 22042,625, High[0]: 22042
+[DEBUG] 18.06.2025 12:02:16 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:16, High: 22042,25, Low: 22042,25, currentLevel: 22043,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22040,875, SL: 22042,625
+[DEBUG SHORT] Low[0]: 22042,25, TP: 22040,875, SL: 22042,625, High[0]: 22042,25
+[DEBUG] 18.06.2025 12:02:16 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:16, High: 22042,25, Low: 22042,25, currentLevel: 22043,375, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22040,875, SL: 22042,625
+[DEBUG SHORT] Low[0]: 22042,25, TP: 22040,875, SL: 22042,625, High[0]: 22042,25
+[DEBUG] 18.06.2025 12:02:16 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22043,375 вне диапазона 22042-22043,25, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:16, High: 22042,25, Low: 22042,25, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,25 >= 22043,375, SHORT: Low: 22042,25 <= 22041,875
+[DEBUG] 18.06.2025 12:02:16 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:16, High: 22042,25, Low: 22042,25, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,25 >= 22043,375, SHORT: Low: 22042,25 <= 22041,875
+[DEBUG] 18.06.2025 12:02:16 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:16, High: 22042, Low: 22042, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22043,375, SHORT: Low: 22042 <= 22041,875
+[DEBUG] 18.06.2025 12:02:16 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:16, High: 22042, Low: 22042, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22043,375, SHORT: Low: 22042 <= 22041,875
+[DEBUG] 18.06.2025 12:02:16 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22042,625 вне диапазона 22042-22042,5, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:16, High: 22042, Low: 22042, currentLevel: 22042,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22043, SHORT: Low: 22042 <= 22041,5
+[DEBUG] 18.06.2025 12:02:16 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:16, High: 22041,75, Low: 22041,75, currentLevel: 22042,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,75 >= 22043, SHORT: Low: 22041,75 <= 22041,5
+[DEBUG] 18.06.2025 12:02:16 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:16, High: 22042, Low: 22042, currentLevel: 22042,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22043, SHORT: Low: 22042 <= 22041,5
+[DEBUG] 18.06.2025 12:02:17 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:17, High: 22042,25, Low: 22042,25, currentLevel: 22042,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,25 >= 22043, SHORT: Low: 22042,25 <= 22041,5
+[DEBUG] 18.06.2025 12:02:17 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:17, High: 22042, Low: 22042, currentLevel: 22042,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22043, SHORT: Low: 22042 <= 22041,5
+[DEBUG] 18.06.2025 12:02:18 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:18, High: 22042, Low: 22042, currentLevel: 22042,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22043, SHORT: Low: 22042 <= 22041,5
+[DEBUG] 18.06.2025 12:02:18 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:18, High: 22042, Low: 22042, currentLevel: 22042,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22043, SHORT: Low: 22042 <= 22041,5
+[DEBUG] 18.06.2025 12:02:18 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:18, High: 22042, Low: 22042, currentLevel: 22042,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22043, SHORT: Low: 22042 <= 22041,5
+[DEBUG] 18.06.2025 12:02:18 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:18, High: 22042,25, Low: 22042,25, currentLevel: 22042,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,25 >= 22043, SHORT: Low: 22042,25 <= 22041,5
+[DEBUG] 18.06.2025 12:02:18 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:18, High: 22041,75, Low: 22041,75, currentLevel: 22042,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,75 >= 22043, SHORT: Low: 22041,75 <= 22041,5
+[DEBUG] 18.06.2025 12:02:18 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:18, High: 22041,75, Low: 22041,75, currentLevel: 22042,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,75 >= 22043, SHORT: Low: 22041,75 <= 22041,5
+[DEBUG] 18.06.2025 12:02:18 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:18, High: 22041,75, Low: 22041,75, currentLevel: 22042,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,75 >= 22043, SHORT: Low: 22041,75 <= 22041,5
+[DEBUG] 18.06.2025 12:02:18 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:18, High: 22041,75, Low: 22041,75, currentLevel: 22042,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,75 >= 22043, SHORT: Low: 22041,75 <= 22041,5
+[DEBUG] 18.06.2025 12:02:18 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:18, High: 22041,5, Low: 22041,5, currentLevel: 22042,25, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,5 >= 22043, SHORT: Low: 22041,5 <= 22041,5
+[ORDER] SHORT ENTRY at 22041,5, TP at 22039,75, Level: 22042,25
+[DEBUG] 18.06.2025 12:02:18 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:18, High: 22042,25, Low: 22042,25, currentLevel: 22042,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22039,75, SL: not set
+[DEBUG SHORT] Low[0]: 22042,25, TP: 22039,75, SL: not set, High[0]: 22042,25
+[DEBUG] 18.06.2025 12:02:18 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:18, High: 22041,75, Low: 22041,75, currentLevel: 22042,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22039,75, SL: not set
+[DEBUG SHORT] Low[0]: 22041,75, TP: 22039,75, SL: not set, High[0]: 22041,75
+[DEBUG] 18.06.2025 12:02:19 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:19, High: 22042,25, Low: 22042,25, currentLevel: 22042,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22039,75, SL: not set
+[DEBUG SHORT] Low[0]: 22042,25, TP: 22039,75, SL: not set, High[0]: 22042,25
+[DEBUG] 18.06.2025 12:02:19 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:19, High: 22042, Low: 22042, currentLevel: 22042,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22039,75, SL: not set
+[DEBUG SHORT] Low[0]: 22042, TP: 22039,75, SL: not set, High[0]: 22042
+[DEBUG] 18.06.2025 12:02:19 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:19, High: 22042,25, Low: 22042,25, currentLevel: 22042,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22039,75, SL: not set
+[DEBUG SHORT] Low[0]: 22042,25, TP: 22039,75, SL: not set, High[0]: 22042,25
+[DEBUG] 18.06.2025 12:02:21 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:21, High: 22041,5, Low: 22041,5, currentLevel: 22042,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22039,75, SL: not set
+[DEBUG SHORT] Low[0]: 22041,5, TP: 22039,75, SL: not set, High[0]: 22041,5
+[DEBUG] 18.06.2025 12:02:22 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:22, High: 22042, Low: 22042, currentLevel: 22042,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22039,75, SL: not set
+[DEBUG SHORT] Low[0]: 22042, TP: 22039,75, SL: not set, High[0]: 22042
+[DEBUG] 18.06.2025 12:02:22 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:22, High: 22042, Low: 22042, currentLevel: 22042,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22039,75, SL: not set
+[DEBUG SHORT] Low[0]: 22042, TP: 22039,75, SL: not set, High[0]: 22042
+[DEBUG] 18.06.2025 12:02:22 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:22, High: 22041,5, Low: 22041,5, currentLevel: 22042,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22039,75, SL: not set
+[DEBUG SHORT] Low[0]: 22041,5, TP: 22039,75, SL: not set, High[0]: 22041,5
+[DEBUG] 18.06.2025 12:02:23 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:23, High: 22041,5, Low: 22041,5, currentLevel: 22042,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22039,75, SL: not set
+[DEBUG SHORT] Low[0]: 22041,5, TP: 22039,75, SL: not set, High[0]: 22041,5
+[DEBUG] 18.06.2025 12:02:23 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:23, High: 22041,5, Low: 22041,5, currentLevel: 22042,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22039,75, SL: not set
+[DEBUG SHORT] Low[0]: 22041,5, TP: 22039,75, SL: not set, High[0]: 22041,5
+[DEBUG] 18.06.2025 12:02:23 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:23, High: 22041,5, Low: 22041,5, currentLevel: 22042,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22039,75, SL: not set
+[DEBUG SHORT] Low[0]: 22041,5, TP: 22039,75, SL: not set, High[0]: 22041,5
+[DEBUG] 18.06.2025 12:02:23 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:23, High: 22041,25, Low: 22041,25, currentLevel: 22042,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22039,75, SL: not set
+[ORDER] SHORT STOP can be simulated at 22041,5
+[DEBUG SHORT] Low[0]: 22041,25, TP: 22039,75, SL: 22041,5, High[0]: 22041,25
+[DEBUG] 18.06.2025 12:02:23 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:23, High: 22041,25, Low: 22041,25, currentLevel: 22042,25, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: short, TP: 22039,75, SL: 22041,5
+[DEBUG SHORT] Low[0]: 22041,25, TP: 22039,75, SL: 22041,5, High[0]: 22041,25
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22042,25 вне диапазона 22041,25-22042, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22041,5, Low: 22041,5, currentLevel: 22041,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,5 >= 22042,375, SHORT: Low: 22041,5 <= 22040,875
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22041,5, Low: 22041,5, currentLevel: 22041,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,5 >= 22042,375, SHORT: Low: 22041,5 <= 22040,875
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22041,5, Low: 22041,5, currentLevel: 22041,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,5 >= 22042,375, SHORT: Low: 22041,5 <= 22040,875
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22041,625 вне диапазона 22041,25-22041,5, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22041,5, Low: 22041,5, currentLevel: 22041,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,5 >= 22042,125, SHORT: Low: 22041,5 <= 22040,625
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22041,5, Low: 22041,5, currentLevel: 22041,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,5 >= 22042,125, SHORT: Low: 22041,5 <= 22040,625
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22041,75, Low: 22041,75, currentLevel: 22041,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,75 >= 22042,125, SHORT: Low: 22041,75 <= 22040,625
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22041,75, Low: 22041,75, currentLevel: 22041,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,75 >= 22042,125, SHORT: Low: 22041,75 <= 22040,625
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22041,75, Low: 22041,75, currentLevel: 22041,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,75 >= 22042,125, SHORT: Low: 22041,75 <= 22040,625
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22041,75, Low: 22041,75, currentLevel: 22041,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,75 >= 22042,125, SHORT: Low: 22041,75 <= 22040,625
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22041,375 вне диапазона 22041,5-22041,75, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22041,75, Low: 22041,75, currentLevel: 22041,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22041,75 >= 22042,375, SHORT: Low: 22041,75 <= 22040,875
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042, Low: 22042, currentLevel: 22041,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22042,375, SHORT: Low: 22042 <= 22040,875
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042, Low: 22042, currentLevel: 22041,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22042,375, SHORT: Low: 22042 <= 22040,875
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042, Low: 22042, currentLevel: 22041,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22042,375, SHORT: Low: 22042 <= 22040,875
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042, Low: 22042, currentLevel: 22041,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042 >= 22042,375, SHORT: Low: 22042 <= 22040,875
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22041,625 вне диапазона 22041,75-22042,25, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042,25, Low: 22042,25, currentLevel: 22042, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,25 >= 22042,75, SHORT: Low: 22042,25 <= 22041,25
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042,25, Low: 22042,25, currentLevel: 22042, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,25 >= 22042,75, SHORT: Low: 22042,25 <= 22041,25
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042,25, Low: 22042,25, currentLevel: 22042, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,25 >= 22042,75, SHORT: Low: 22042,25 <= 22041,25
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042,25, Low: 22042,25, currentLevel: 22042, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,25 >= 22042,75, SHORT: Low: 22042,25 <= 22041,25
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042,25, Low: 22042,25, currentLevel: 22042, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,25 >= 22042,75, SHORT: Low: 22042,25 <= 22041,25
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042,25, Low: 22042,25, currentLevel: 22042, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,25 >= 22042,75, SHORT: Low: 22042,25 <= 22041,25
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042,5, Low: 22042,5, currentLevel: 22042, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,5 >= 22042,75, SHORT: Low: 22042,5 <= 22041,25
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042,5, Low: 22042,5, currentLevel: 22042, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,5 >= 22042,75, SHORT: Low: 22042,5 <= 22041,25
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042,5, Low: 22042,5, currentLevel: 22042, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,5 >= 22042,75, SHORT: Low: 22042,5 <= 22041,25
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22042 вне диапазона 22042,25-22042,5, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042,5, Low: 22042,5, currentLevel: 22042,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,5 >= 22043,125, SHORT: Low: 22042,5 <= 22041,625
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042,5, Low: 22042,5, currentLevel: 22042,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,5 >= 22043,125, SHORT: Low: 22042,5 <= 22041,625
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042,5, Low: 22042,5, currentLevel: 22042,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,5 >= 22043,125, SHORT: Low: 22042,5 <= 22041,625
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042,75, Low: 22042,75, currentLevel: 22042,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,75 >= 22043,125, SHORT: Low: 22042,75 <= 22041,625
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042,5, Low: 22042,5, currentLevel: 22042,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,5 >= 22043,125, SHORT: Low: 22042,5 <= 22041,625
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042,5, Low: 22042,5, currentLevel: 22042,375, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,5 >= 22043,125, SHORT: Low: 22042,5 <= 22041,625
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[WARN] currentLevel 22042,375 вне диапазона 22042,5-22042,75, центрируем!
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042,5, Low: 22042,5, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,5 >= 22043,375, SHORT: Low: 22042,5 <= 22041,875
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042,5, Low: 22042,5, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,5 >= 22043,375, SHORT: Low: 22042,5 <= 22041,875
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042,75, Low: 22042,75, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,75 >= 22043,375, SHORT: Low: 22042,75 <= 22041,875
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042,75, Low: 22042,75, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,75 >= 22043,375, SHORT: Low: 22042,75 <= 22041,875
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22043, Low: 22043, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043 >= 22043,375, SHORT: Low: 22043 <= 22041,875
+[DEBUG] 18.06.2025 12:02:25 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:25, High: 22042,75, Low: 22042,75, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22042,75 >= 22043,375, SHORT: Low: 22042,75 <= 22041,875
+[DEBUG] 18.06.2025 12:02:27 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:27, High: 22043,25, Low: 22043,25, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,375, SHORT: Low: 22043,25 <= 22041,875
+[DEBUG] 18.06.2025 12:02:27 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:27, High: 22043,25, Low: 22043,25, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,25 >= 22043,375, SHORT: Low: 22043,25 <= 22041,875
+[DEBUG] 18.06.2025 12:02:27 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:27, High: 22043,5, Low: 22043,5, currentLevel: 22042,625, orderActive: False, canOpenNewOrder: True
+[DEBUG ENTRY] Check LONG: High: 22043,5 >= 22043,375, SHORT: Low: 22043,5 <= 22041,875
+[ORDER] LONG ENTRY at 22043,375, TP at 22045,125, Level: 22042,625
+[DEBUG] 18.06.2025 12:02:27 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:27, High: 22043,5, Low: 22043,5, currentLevel: 22042,625, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22045,125, SL: not set
+[DEBUG LONG] High[0]: 22043,5, TP: 22045,125, SL: not set, Low[0]: 22043,5
+[DEBUG] 18.06.2025 12:02:28 — inWorkPeriod: True, StartDate: 18.06.2025 0:00:00, EndDate: 18.06.2025 23:59:59
+[DEBUG PRICE] Time: 18.06.2025 12:02:28, High: 22043,5, Low: 22043,5, currentLevel: 22042,625, orderActive: True, canOpenNewOrder: False
+[DEBUG ACTIVE] orderDirection: long, TP: 22045,125, SL: not set
+[DEBUG LONG] High[0]: 22043,5, TP: 22045,125, SL: not set, Low[0]: 22043,5
