@@ -1,0 +1,1119 @@
+# Ћюди и семь€
+
+persona Ц perЈ**s?**Јna Ц человек  
+uomo Ц **?o**Јmo Ц мужчина  
+donna Ц **d?**Јna Ц женщина  
+ragazzo Ц raЈ**g?z**Јzo Ц парень  
+ragazza Ц raЈ**g?z**Јza Ц  девушка  
+bambino Ц bamЈ**b?**Јno Ц ребЄнок (мальчик)  
+bambina Ц bamЈ**b?**Јna Ц ребЄнок (девочка)  
+famiglia Ц faЈ**m?**Јlia Ц семь€  
+padre Ц **p?**Јdre Ц отец  
+madre Ц **m?**Јdre Ц мать  
+fratello Ц fraЈ**t?l**Јlo Ц брат  
+sorella Ц soЈ**r?l**Јla Ц сестра  
+nonno Ц **n?n**Јno Ц дедушка  
+nonna Ц **n?n**Јna Ц бабушка  
+zio Ц **z?**Јo Ц д€д€  
+zia Ц **z?**Јa Ц тЄт€  
+cugino Ц cuЈ**g?**Јno Ц двоюродный брат  
+cugina Ц cuЈ**g?**Јna Ц двоюродна€ сестра  
+nipote Ц niЈ**p?**Јte Ц внук/внучка/плем€нник/плем€нница  
+marito Ц maЈ**r?**Јto Ц муж  
+moglie Ц **m?**Јglie Ц жена  
+genitore Ц geЈniЈ**t?**Јre Ц родитель  
+figlio Ц **f?**Јglio Ц сын  
+figlia Ц **f?**Јglia Ц дочь  
+amico Ц aЈ**m?**Јco Ц друг  
+amica Ц aЈ**m?**Јca Ц подруга  
+collega Ц colЈ**l?**Јga Ц коллега  
+vicino Ц viЈ**c?**Јno Ц сосед  
+vicina Ц viЈ**c?**Јna Ц соседка  
+ospite Ц **?s**ЈpiЈte Ц гость  
+padrone Ц paЈ**dr?**Јne Ц хоз€ин  
+studente Ц stuЈ**d?n**Јte Ц студент  
+studentessa Ц stuЈdenЈ**t?s**Јsa Ц студентка  
+dottore Ц dotЈ**t?**Јre Ц врач  
+dottoressa Ц dotЈtoЈ**r?s**Јsa Ц женщина-врач  
+paziente Ц paЈ**zi?n**Јte Ц пациент  
+avvocato Ц avЈvoЈ**c?**Јto Ц адвокат  
+giudice Ц **gi?**ЈdiЈce Ц судь€  
+poliziotto Ц poЈliЈ**zi?t**Јto Ц полицейский  
+infermiere Ц inЈferЈ**mi?**Јre Ц медбрат  
+infermiera Ц inЈferЈ**mi?**Јra Ц медсестра  
+venditore Ц venЈdiЈ**t?**Јre Ц продавец  
+cuoco Ц **cu?**Јco Ц повар  
+cameriere Ц caЈmeЈriЈ**?**Јre Ц официант  
+cameriera Ц caЈmeЈriЈ**?**Јra Ц официантка  
+pensionato Ц penЈsioЈ**n?**Јto Ц пенсионер  
+
+# ƒом и быт
+
+casa Ц **c?**Јsa Ц дом  
+appartamento Ц apЈparЈtaЈ**m?n**Јto Ц квартира  
+stanza Ц **st?n**Јza Ц комната  
+salotto Ц saЈ**l?t**Јto Ц гостина€  
+cucina Ц cuЈ**c?**Јna Ц кухн€  
+bagno Ц **b?**Јgno Ц ванна€  
+camera Ц **c?**ЈmeЈra Ц спальн€  
+corridoio Ц corЈriЈ**d?i**Јo Ц коридор  
+balcone Ц balЈ**c?**Јne Ц балкон  
+terrazzo Ц terЈ**r?z**Јzo Ц терраса  
+porta Ц **p?r**Јta Ц дверь  
+finestra Ц fiЈ**n?**Јstra Ц окно  
+soffitto Ц sofЈ**f?t**Јto Ц потолок  
+parete Ц paЈ**r?**Јte Ц стена  
+pavimento Ц paЈviЈ**m?n**Јto Ц пол  
+scala Ц **sc?**Јla Ц лестница  
+ascensore Ц aЈscenЈ**s?**Јre Ц лифт  
+chiave Ц **chi?**Јve Ц ключ  
+armadio Ц arЈ**m?**Јdio Ц шкаф  
+letto Ц **l?t**Јto Ц кровать  
+comodino Ц coЈmoЈ**d?**Јno Ц тумбочка  
+scrivania Ц scriЈvaЈ**n?**Јa Ц письменный стол  
+tavolo Ц **t?**ЈvoЈlo Ц стол  
+sedia Ц **s?**Јdia Ц стул  
+poltrona Ц polЈ**tr?**Јna Ц кресло  
+divano Ц diЈ**v?**Јno Ц диван  
+mensola Ц **m?n**ЈsoЈla Ц полка  
+lampada Ц **l?m**ЈpaЈda Ц лампа  
+specchio Ц **sp?c**Јchio Ц зеркало  
+tappeto Ц tapЈ**p?**Јto Ц ковЄр  
+tenda Ц **t?n**Јda Ц занавеска  
+frigorifero Ц friЈgoЈ**r?**ЈfeЈro Ц холодильник  
+forno Ц **f?r**Јno Ц духовка  
+lavastoviglie Ц laЈvaЈstoЈ**v?**Јglie Ц посудомоечна€ машина  
+lavatrice Ц laЈvaЈ**tr?**Јce Ц стиральна€ машина  
+microonde Ц miЈcroЈ**?n**Јde Ц микроволновка  
+stufa Ц **st?**Јfa Ц плита  
+pentola Ц **p?n**ЈtoЈla Ц кастрюл€  
+padella Ц paЈ**d?l**Јla Ц сковорода  
+forchetta Ц forЈ**ch?**Јtta Ц вилка  
+coltello Ц colЈ**t?l**Јlo Ц нож  
+cucchiaio Ц cucЈ**chi?**Јio Ц ложка  
+bicchiere Ц bicЈ**chi?**Јre Ц стакан  
+tazza Ц **t?z**Јza Ц чашка  
+piatto Ц **pi?t**Јto Ц тарелка  
+bottiglia Ц botЈ**t?**Јglia Ц бутылка  
+detergente Ц deЈterЈ**g?n**Јte Ц моющее средство  
+secchio Ц **s?c**Јchio Ц ведро  
+scopa Ц **sc?**Јpa Ц веник  
+spugna Ц **sp?**Јgna Ц губка  
+paletta Ц paЈ**l?t**Јta Ц совок  
+ferro da stiro Ц **f?r**Јro da **st?**Јro Ц утюг  
+
+# ќдежда
+
+vestito Ц veЈ**st?**Јto Ц одежда, платье  
+abito Ц **?**ЈbiЈto Ц нар€д  
+giacca Ц **gi?c**Јca Ц куртка, пиджак  
+cappotto Ц capЈ**p?t**Јto Ц пальто  
+maglia Ц **m?**Јglia Ц свитер  
+maglietta Ц maЈgliЈ**?t**Јta Ц футболка  
+camicia Ц caЈ**m?**Јcia Ц рубашка  
+pantalone Ц panЈtaЈ**l?**Јne Ц брюки  
+gonna Ц **g?n**Јna Ц юбка  
+calza Ц **c?l**Јza Ц носок  
+scarpa Ц **sc?r**Јpa Ц обувь  
+stivale Ц stiЈ**v?**Јle Ц сапог  
+sandalo Ц **s?n**ЈdaЈlo Ц сандали€  
+cintura Ц cinЈ**t?**Јra Ц ремень  
+cravatta Ц craЈ**v?t**Јta Ц галстук  
+berretto Ц berЈ**r?t**Јto Ц кепка  
+cappello Ц capЈ**p?l**Јlo Ц шл€па  
+guanto Ц **gu?n**Јto Ц перчатка  
+sciarpa Ц **sci?r**Јpa Ц шарф  
+borsa Ц **b?r**Јsa Ц сумка  
+zaino Ц **z?i**Јno Ц рюкзак  
+portafoglio Ц porЈtaЈ**f?**Јglio Ц кошелЄк  
+occhiali Ц ocЈ**chi?**Јli Ц очки  
+orologio Ц oЈroЈ**l?**Јgio Ц часы  
+anello Ц aЈ**n?l**Јlo Ц кольцо  
+bracciale Ц bracЈciЈ**?**Јle Ц браслет  
+collana Ц colЈ**l?**Јna Ц ожерелье  
+orecchino Ц oЈrecЈ**ch?**Јno Ц серьга  
+bottoni Ц botЈ**t?**Јni Ц пуговицы  
+tasca Ц **t?s**Јca Ц карман  
+cinturone Ц cinЈtuЈ**r?**Јne Ц ремень  
+tuta Ц **t?**Јta Ц спортивный костюм  
+pigiama Ц piЈ**gi?**Јma Ц пижама  
+costume Ц coЈ**st?**Јme Ц купальник  
+accappatoio Ц acЈcapЈpaЈ**t?**Јio Ц халат  
+pantofola Ц panЈ**t?**ЈfoЈla Ц тапок  
+
+# ≈да и напитки
+
+cibo Ц **c?**Јbo Ц еда  
+colazione Ц coЈlaЈ**zi?**Јne Ц завтрак  
+pranzo Ц **pr?n**Јzo Ц обед  
+cena Ц **c?**Јna Ц ужин  
+spuntino Ц spunЈ**t?**Јno Ц перекус  
+pane Ц **p?**Јne Ц хлеб  
+burro Ц **b?r**Јro Ц масло  
+formaggio Ц forЈ**m?g**Јgio Ц сыр  
+latte Ц **l?t**Јte Ц молоко  
+panna Ц **p?n**Јna Ц сливки  
+uovo Ц **?o**Јvo Ц €йцо  
+carne Ц **c?r**Јne Ц м€со  
+pollo Ц **p?l**Јlo Ц курица  
+pesce Ц **p?**Јsce Ц рыба  
+prosciutto Ц proЈ**sci?t**Јto Ц ветчина  
+salsiccia Ц salЈ**s?c**Јcia Ц колбаса  
+verdura Ц verЈ**d?**Јra Ц овощи  
+insalata Ц inЈsaЈ**l?**Јta Ц салат  
+pomodoro Ц poЈmoЈ**d?**Јro Ц помидор  
+cetriolo Ц ceЈtriЈ**?**Јlo Ц огурец  
+carota Ц caЈ**r?**Јta Ц морковь  
+patata Ц paЈ**t?**Јta Ц картофель  
+cipolla Ц ciЈ**p?l**Јla Ц лук  
+aglio Ц **?**Јglio Ц чеснок  
+melanzana Ц meЈlanЈ**z?**Јna Ц баклажан  
+frutta Ц **fr?t**Јta Ц фрукты  
+mela Ц **m?**Јla Ц €блоко  
+pera Ц **p?**Јra Ц груша  
+banana Ц baЈ**n?**Јna Ц банан  
+arancia Ц aЈ**r?n**Јcia Ц апельсин  
+limone Ц liЈ**m?**Јne Ц лимон  
+uva Ц **?**Јva Ц виноград  
+fragola Ц **fr?**ЈgoЈla Ц клубника  
+ciliegia Ц ciЈliЈ**?**Јgia Ц вишн€  
+pesca Ц **p?s**Јca Ц персик  
+albicocca Ц alЈbiЈ**c?c**Јca Ц абрикос  
+anguria Ц anЈ**g?**Јria Ц арбуз  
+melone Ц meЈ**l?**Јne Ц дын€  
+succo Ц **s?c**Јco Ц сок  
+acqua Ц **?c**Јqua Ц вода  
+vino Ц **v?**Јno Ц вино  
+birra Ц **b?r**Јra Ц пиво  
+t? Ц t? Ц чай  
+caff? Ц cafЈf? Ц кофе  
+zucchero Ц **z?c**ЈcheЈro Ц сахар  
+sale Ц **s?**Јle Ц соль  
+pepe Ц **p?**Јpe Ц перец  
+olio Ц **?**Јlio Ц масло  
+aceto Ц aЈ**c?**Јto Ц уксус  
+dolce Ц **d?l**Јce Ц десерт  
+torta Ц **t?r**Јta Ц торт  
+biscotto Ц bisЈ**c?t**Јto Ц печенье  
+gelato Ц geЈ**l?**Јto Ц мороженое  
+cioccolato Ц ciocЈcoЈ**l?**Јto Ц шоколад  
+marmellata Ц marЈmelЈ**l?**Јta Ц варенье  
+miele Ц **mi?**Јle Ц мЄд  
+
+# ћагазины, покупки, деньги
+
+negozio Ц neЈ**g?**Јzio Ц магазин  
+supermercato Ц suЈperЈmerЈ**c?**Јto Ц супермаркет  
+mercato Ц merЈ**c?**Јto Ц рынок  
+panetteria Ц paЈnetЈteЈ**r?**Јa Ц булочна€  
+pasticceria Ц paЈstiЈcceЈ**r?**Јa Ц кондитерска€  
+macelleria Ц maЈcelЈleЈ**r?**Јa Ц м€сна€ лавка  
+pescheria Ц pesЈcheЈ**r?**Јa Ц рыбна€ лавка  
+fruttivendolo Ц frutЈtiЈ**v?n**ЈdoЈlo Ц продавец фруктов  
+fioraio Ц fioЈ**r?**Јio Ц цветочник  
+farmacia Ц farЈmaЈ**c?**Јa Ц аптека  
+tabaccheria Ц taЈbacЈcheЈ**r?**Јa Ц табачный киоск  
+banca Ц **b?n**Јca Ц банк  
+bancomat Ц **b?n**ЈcoЈmat Ц банкомат  
+carta di credito Ц **c?r**Јta di **cr?**ЈdiЈto Ц кредитна€ карта  
+contante Ц conЈ**t?n**Јte Ц наличные  
+moneta Ц moЈ**n?**Јta Ц монета  
+denaro Ц deЈ**n?**Јro Ц деньги  
+prezzo Ц **pr?z**Јzo Ц цена  
+sconto Ц **sc?n**Јto Ц скидка  
+pagamento Ц paЈgaЈ**m?n**Јto Ц оплата  
+resto Ц **r?**Јsto Ц сдача  
+ricevuta Ц riЈceЈ**v?**Јta Ц чек  
+scontrino Ц sconЈ**tr?**Јno Ц кассовый чек  
+fattura Ц fatЈ**t?**Јra Ц счЄт  
+carrello Ц carЈ**r?l**Јlo Ц тележка  
+pacchetto Ц pacЈ**ch?t**Јto Ц пакет  
+regalo Ц reЈ**g?**Јlo Ц подарок  
+confezione Ц conЈfeЈ**zi?**Јne Ц упаковка  
+ordine Ц **?r**ЈdiЈne Ц заказ  
+spedizione Ц speЈdiЈ**zi?**Јne Ц доставка  
+cliente Ц cliЈ**?n**Јte Ц клиент  
+cassiere Ц casЈsiЈ**?**Јre Ц кассир  
+vendita Ц **v?n**ЈdiЈta Ц продажа  
+acquisto Ц acЈ**qu?s**Јto Ц покупка  
+prodotto Ц proЈ**d?t**Јto Ц продукт  
+merce Ц **m?r**Јce Ц товар  
+vetrina Ц veЈ**tr?**Јna Ц витрина  
+offerta Ц ofЈ**f?r**Јta Ц предложение  
+pubblicit? Ц pubЈbliЈciЈ**t?** Ц реклама  
+
+# “ранспорт
+
+auto Ц **?u**Јto Ц автомобиль  
+macchina Ц **m?c**ЈchiЈna Ц машина  
+bicicletta Ц biЈciЈ**cl?t**Јta Ц велосипед  
+motocicletta Ц moЈtoЈciЈ**cl?t**Јta Ц мотоцикл  
+motorino Ц moЈtoЈ**r?**Јno Ц скутер  
+autobus Ц **?u**ЈtoЈbus Ц автобус  
+tram Ц tram Ц трамвай  
+treno Ц **tr?**Јno Ц поезд  
+metropolitana Ц meЈtroЈpoЈliЈ**t?**Јna Ц метро  
+taxi Ц **t?x**Јi Ц такси  
+aereo Ц aЈ**?**ЈreЈo Ц самолЄт  
+elicottero Ц eЈliЈ**c?t**ЈteЈro Ц вертолЄт  
+nave Ц **n?**Јve Ц корабль  
+barca Ц **b?r**Јca Ц лодка  
+traghetto Ц traЈ**gh?t**Јto Ц паром  
+passeggero Ц pasЈsegЈ**g?**Јro Ц пассажир  
+autista Ц auЈ**t?s**Јta Ц водитель  
+stazione Ц staЈ**zi?**Јne Ц станци€  
+fermata Ц ferЈ**m?**Јta Ц остановка  
+biglietto Ц biЈgliЈ**?t**Јto Ц билет  
+abbonamento Ц abЈboЈnaЈ**m?n**Јto Ц проездной  
+tessera Ц **t?s**ЈseЈra Ц карточка  
+valigia Ц vaЈ**l?**Јgia Ц чемодан  
+bagaglio Ц baЈ**g?**Јglio Ц багаж  
+partenza Ц parЈ**t?n**Јza Ц отправление  
+arrivo Ц arЈ**r?**Јvo Ц прибытие  
+ritardo Ц riЈ**t?r**Јdo Ц задержка  
+binario Ц biЈ**n?**Јrio Ц путь (ж/д)  
+orario Ц oЈ**r?**Јrio Ц расписание  
+mappa Ц **m?p**Јpa Ц карта  
+segnale Ц seЈ**gn?**Јle Ц сигнал  
+ponte Ц **p?n**Јte Ц мост  
+incrocio Ц inЈ**cr?**Јcio Ц перекрЄсток  
+semaforo Ц seЈ**m?**ЈfoЈro Ц светофор  
+rotonda Ц roЈ**t?n**Јda Ц круговое движение  
+strada Ц **str?**Јda Ц улица  
+autostrada Ц auЈtoЈ**str?**Јda Ц автострада  
+corsia Ц corЈ**s?**Јa Ц полоса движени€  
+parcheggio Ц parЈ**ch?g**Јgio Ц парковка  
+
+# √ород
+
+citt? Ц citЈ**t?** Ц город  
+paese Ц paЈ**?**Јse Ц страна, деревн€  
+villaggio Ц vilЈ**l?g**Јgio Ц деревн€  
+centro Ц **c?n**Јtro Ц центр  
+periferia Ц peЈriЈfeЈ**r?**Јa Ц окраина  
+piazza Ц **pi?z**Јza Ц площадь  
+via Ц **v?**Јa Ц улица  
+corso Ц **c?r**Јso Ц проспект  
+viale Ц viЈ**?**Јle Ц алле€  
+strada Ц **str?**Јda Ц улица  
+parco Ц **p?r**Јco Ц парк  
+giardino Ц giarЈ**d?**Јno Ц сад  
+fontana Ц fonЈ**t?**Јna Ц фонтан  
+statua Ц **st?**Јtua Ц стату€  
+ponte Ц **p?n**Јte Ц мост  
+chiesa Ц **chi?**Јsa Ц церковь  
+cattedrale Ц catЈteЈdraЈ**le** Ц собор  
+basilica Ц baЈ**s?**ЈliЈca Ц базилика  
+municipio Ц muЈniЈ**c?**Јpio Ц мэри€  
+scuola Ц scuЈ**?**Јla Ц школа  
+universit? Ц uЈniЈverЈsiЈ**t?** Ц университет  
+ospedale Ц osЈpeЈ**d?**Јle Ц больница  
+farmacia Ц farЈmaЈ**c?**Јa Ц аптека  
+biblioteca Ц biЈbliЈoЈ**t?**Јca Ц библиотека  
+museo Ц muЈ**s?**Јo Ц музей  
+teatro Ц teЈ**?**Јtro Ц театр  
+cinema Ц **c?**ЈneЈma Ц кинотеатр  
+negozio Ц neЈ**g?**Јzio Ц магазин  
+bar Ц bar Ц бар  
+ristorante Ц riЈstoЈ**r?n**Јte Ц ресторан  
+pizzeria Ц pizЈzeЈ**r?**Јa Ц пиццери€  
+albergo Ц alЈ**b?r**Јgo Ц отель  
+ostello Ц osЈ**t?l**Јlo Ц хостел  
+ufficio Ц ufЈ**f?**Јcio Ц офис  
+posta Ц **p?**Јsta Ц почта  
+banca Ц **b?n**Јca Ц банк  
+caserma Ц caЈ**s?r**Јma Ц казарма  
+stazione Ц staЈ**zi?**Јne Ц вокзал  
+aeroporto Ц aeЈroЈ**p?r**Јto Ц аэропорт  
+porto Ц **p?r**Јto Ц порт  
+fermata Ц ferЈ**m?**Јta Ц остановка  
+
+# ѕрирода
+
+natura Ц naЈ**t?**Јra Ц природа  
+bosco Ц **b?s**Јco Ц лес  
+foresta Ц foЈ**r?**Јsta Ц лес  
+albero Ц **?l**ЈbeЈro Ц дерево  
+pianta Ц **pi?n**Јta Ц растение  
+fiore Ц **fi?**Јre Ц цветок  
+erba Ц **?r**Јba Ц трава  
+foglia Ц **f?**Јglia Ц лист  
+frutto Ц **fr?t**Јto Ц плод  
+seme Ц **s?**Јme Ц сем€  
+radice Ц raЈ**d?**Јce Ц корень  
+campo Ц **c?m**Јpo Ц поле  
+prato Ц **pr?**Јto Ц луг  
+colline Ц colЈ**l?**Јne Ц холмы  
+montagna Ц monЈ**t?g**Јna Ц гора  
+valle Ц **v?l**Јle Ц долина  
+fiume Ц **fi?**Јme Ц река  
+lago Ц **l?**Јgo Ц озеро  
+mare Ц **m?**Јre Ц море  
+oceano Ц oЈceЈ**?**Јno Ц океан  
+spiaggia Ц spiЈ**?g**Јgia Ц пл€ж  
+isola Ц **?**ЈsoЈla Ц остров  
+penisola Ц peЈ**n?**ЈsoЈla Ц полуостров  
+costa Ц **c?s**Јta Ц берег  
+deserto Ц deЈ**s?r**Јto Ц пустын€  
+roccia Ц **r?c**Јcia Ц скала  
+pietra Ц **pi?**Јtra Ц камень  
+sabbia Ц **s?b**Јbia Ц песок  
+vulcano Ц vulЈ**c?**Јno Ц вулкан  
+cascata Ц caЈ**sc?**Јta Ц водопад  
+sorgente Ц sorЈ**g?n**Јte Ц источник  
+grotta Ц **gr?t**Јta Ц пещера  
+vento Ц **v?n**Јto Ц ветер  
+pioggia Ц **pi?g**Јgia Ц дождь  
+neve Ц **n?**Јve Ц снег  
+ghiaccio Ц **ghi?c**Јcio Ц лЄд  
+sole Ц **s?**Јle Ц солнце  
+luna Ц **l?**Јna Ц луна  
+stella Ц **st?l**Јla Ц звезда  
+cielo Ц **ci?**Јlo Ц небо  
+nuvola Ц **n?**ЈvoЈla Ц облако  
+arcobaleno Ц arЈcoЈbaЈ**l?**Јno Ц радуга  
+fulmine Ц **f?l**ЈmiЈne Ц молни€  
+
+# ∆ивотные
+
+animale Ц aЈniЈ**m?**Јle Ц животное  
+cane Ц **c?**Јne Ц собака  
+gatto Ц **g?t**Јto Ц кошка  
+uccello Ц ucЈ**c?l**Јlo Ц птица  
+pesce Ц **p?**Јsce Ц рыба  
+cavallo Ц caЈ**v?l**Јlo Ц лошадь  
+mucca Ц **m?c**Јca Ц корова  
+pecora Ц **p?**ЈcoЈra Ц овца  
+capra Ц **c?**Јpra Ц коза  
+maiale Ц maЈ**i?**Јle Ц свинь€  
+pollo Ц **p?l**Јlo Ц курица  
+gallina Ц galЈ**l?**Јna Ц курица  
+gallo Ц **g?l**Јlo Ц петух  
+anatra Ц **?**ЈnaЈtra Ц утка  
+oca Ц **?**Јca Ц гусь  
+tacchino Ц tacЈ**ch?**Јno Ц индейка  
+coniglio Ц coЈ**n?**Јglio Ц кролик  
+topo Ц **t?**Јpo Ц мышь  
+ratto Ц **r?t**Јto Ц крыса  
+asino Ц **?**ЈsiЈno Ц осЄл  
+cammello Ц camЈ**m?l**Јlo Ц верблюд  
+leone Ц leЈ**?**Јne Ц лев  
+tigre Ц **t?**Јgre Ц тигр  
+elefante Ц eЈleЈ**f?n**Јte Ц слон  
+orso Ц **?r**Јso Ц медведь  
+lupo Ц **l?**Јpo Ц волк  
+volpe Ц **v?l**Јpe Ц лиса  
+cervo Ц **c?r**Јvo Ц олень  
+scimmia Ц **sc?m**Јmia Ц обезь€на  
+serpente Ц serЈ**p?n**Јte Ц зме€  
+lucertola Ц luЈ**c?r**ЈtoЈla Ц €щерица  
+tartaruga Ц tarЈtaЈ**r?**Јga Ц черепаха  
+squalo Ц **sq?a**Јlo Ц акула  
+delfino Ц delЈ**f?**Јno Ц дельфин  
+balena Ц baЈ**l?**Јna Ц кит  
+polpo Ц **p?l**Јpo Ц осьминог  
+granchio Ц **gr?n**Јchio Ц краб  
+gambero Ц **g?m**ЈbeЈro Ц креветка  
+ape Ц **?**Јpe Ц пчела  
+vespa Ц **v?s**Јpa Ц оса  
+farfalla Ц farЈ**f?l**Јla Ц бабочка  
+formica Ц forЈ**m?**Јca Ц муравей  
+ragno Ц **r?**Јgno Ц паук  
+piccione Ц picЈ**ci?**Јne Ц голубь  
+passero Ц **p?s**ЈseЈro Ц воробей  
+corvo Ц **c?r**Јvo Ц ворон  
+aquila Ц **?**ЈquiЈla Ц орЄл  
+gufo Ц **g?**Јfo Ц сова  
+rondine Ц **r?n**ЈdiЈne Ц ласточка  
+pavone Ц paЈ**v?**Јne Ц павлин  
+struzzo Ц **str?z**Јzo Ц страус  
+pinguino Ц pinЈ**gu?**Јno Ц пингвин  
+
+# ”чЄба
+
+scuola Ц scuЈ**?**Јla Ц школа  
+lezione Ц leЈ**zi?**Јne Ц урок  
+classe Ц **cl?s**Јse Ц класс  
+insegnante Ц inЈseЈg**n?n**Јte Ц учитель  
+studente Ц stuЈ**d?n**Јte Ц ученик  
+studentessa Ц stuЈdenЈ**t?s**Јsa Ц ученица  
+universit? Ц uЈniЈverЈsiЈ**t?** Ц университет  
+corso Ц **c?r**Јso Ц курс  
+materia Ц maЈ**t?**Јria Ц предмет  
+esame Ц eЈ**s?**Јme Ц экзамен  
+compito Ц **c?m**ЈpiЈto Ц домашнее задание  
+voto Ц **v?**Јto Ц оценка  
+diploma Ц diЈ**pl?**Јma Ц диплом  
+libro Ц **l?**Јbro Ц книга  
+quaderno Ц quaЈ**d?r**Јno Ц тетрадь  
+penna Ц **p?n**Јna Ц ручка  
+matita Ц maЈ**t?**Јta Ц карандаш  
+gomma Ц **g?m**Јma Ц ластик  
+righello Ц riЈ**gh?l**Јlo Ц линейка  
+zaino Ц **z?i**Јno Ц рюкзак  
+cartella Ц carЈ**t?l**Јla Ц портфель  
+lavagna Ц laЈ**v?g**Јna Ц доска  
+gesso Ц **g?s**Јso Ц мел  
+banco Ц **b?n**Јco Ц парта  
+aula Ц **?u**Јla Ц аудитори€  
+orario Ц oЈ**r?**Јrio Ц расписание  
+pausa Ц **p?u**Јsa Ц перемена  
+cattedra Ц **c?t**ЈteЈdra Ц кафедра  
+test Ц test Ц тест  
+domanda Ц doЈ**m?n**Јda Ц вопрос  
+risposta Ц riЈ**sp?**Јsta Ц ответ  
+esercizio Ц eЈserЈ**c?**Јzio Ц упражнение  
+lingua Ц **l?n**Јgua Ц €зык  
+frase Ц **fr?**Јse Ц фраза  
+parola Ц paЈ**r?**Јla Ц слово  
+vocabolario Ц voЈcaЈboЈ**l?**Јrio Ц словарь  
+significato Ц siЈgniЈfiЈ**c?**Јto Ц значение  
+traduzione Ц traЈduЈ**zi?**Јne Ц перевод  
+errore Ц erЈ**r?**Јre Ц ошибка  
+correzione Ц corЈreЈ**zi?**Јne Ц исправление  
+pagella Ц paЈ**g?l**Јla Ц табель  
+sezione Ц seЈ**zi?**Јne Ц секци€  
+tesi Ц **t?**Јsi Ц дипломна€ работа  
+tesina Ц teЈ**s?**Јna Ц курсова€  
+
+# –абота
+
+lavoro Ц laЈ**v?**Јro Ц работа  
+impiego Ц imЈpi?Јgo Ц должность  
+professione Ц proЈfesЈ**si?**Јne Ц професси€  
+carriera Ц carЈriЈ**?**Јra Ц карьера  
+azienda Ц aЈzi?Јnda Ц фирма  
+ditta Ц **d?t**Јta Ц компани€  
+ufficio Ц ufЈ**f?**Јcio Ц офис  
+capo Ц **c?**Јpo Ц начальник  
+direttore Ц diЈretЈ**t?**Јre Ц директор  
+segretario Ц seЈgreЈ**t?**Јrio Ц секретарь  
+segretaria Ц seЈgreЈ**t?**Јria Ц секретарша  
+impiegato Ц imЈpieЈ**g?**Јto Ц служащий  
+impiegata Ц imЈpieЈ**g?**Јta Ц служаща€  
+consulente Ц conЈsuЈ**l?n**Јte Ц консультант  
+cliente Ц cliЈ**?n**Јte Ц клиент  
+fornitore Ц forЈniЈ**t?**Јre Ц поставщик  
+contratto Ц conЈ**tr?t**Јto Ц контракт  
+stipendio Ц stiЈ**p?n**Јdio Ц зарплата  
+paga Ц **p?**Јga Ц оплата  
+retribuzione Ц reЈtriЈbuЈ**zi?**Јne Ц вознаграждение  
+colloquio Ц colЈ**l?**Јquio Ц собеседование  
+assunzione Ц asЈsunЈ**zi?**Јne Ц приЄм на работу  
+licenziamento Ц liЈcenЈziaЈ**m?n**Јto Ц увольнение  
+orario Ц oЈ**r?**Јrio Ц график  
+turno Ц **t?r**Јno Ц смена  
+ferie Ц **f?**Јrie Ц отпуск  
+vacanza Ц vaЈ**c?n**Јza Ц отпуск  
+riposo Ц riЈ**p?**Јso Ц отдых  
+riunione Ц riЈuЈ**ni?**Јne Ц собрание  
+progetto Ц proЈ**g?t**Јto Ц проект  
+attivit? Ц atЈtiЈviЈ**t?** Ц де€тельность  
+compito Ц **c?m**ЈpiЈto Ц задание  
+responsabilit? Ц reЈsponЈsaЈbiЈliЈ**t?** Ц ответственность  
+successo Ц sucЈ**c?s**Јso Ц успех  
+fallimento Ц falЈliЈ**m?n**Јto Ц неудача  
+promozione Ц proЈmoЈ**zi?**Јne Ц повышение  
+carica Ц **c?**ЈriЈca Ц должность  
+ruolo Ц **ru?**Јlo Ц роль  
+mansione Ц manЈ**si?**Јne Ц об€занность  
+curriculum Ц curЈriЈ**cu**Јlum Ц резюме  
+candidatura Ц canЈdiЈdaЈ**t?**Јra Ц за€вление  
+esperienza Ц eЈspeЈriЈ**?n**Јza Ц опыт  
+formazione Ц forЈmaЈ**zi?**Јne Ц обучение  
+
+# ¬рем€, даты, погода
+
+tempo Ц **t?m**Јpo Ц врем€, погода  
+giorno Ц **gi?r**Јno Ц день  
+notte Ц **n?t**Јte Ц ночь  
+mattina Ц matЈ**t?**Јna Ц утро  
+pomeriggio Ц poЈmeЈ**r?g**Јgio Ц послеобеденное врем€  
+sera Ц **s?**Јra Ц вечер  
+settimana Ц setЈtiЈ**m?**Јna Ц недел€  
+mese Ц **m?**Јse Ц мес€ц  
+anno Ц **?n**Јno Ц год  
+ieri Ц **i?**Јri Ц вчера  
+oggi Ц **?g**Јgi Ц сегодн€  
+domani Ц doЈ**m?**Јni Ц завтра  
+ora Ц **?**Јra Ц час  
+minuto Ц miЈ**n?**Јto Ц минута  
+secondo Ц seЈ**c?n**Јdo Ц секунда  
+data Ц **d?**Јta Ц дата  
+calendario Ц caЈlenЈ**d?**Јrio Ц календарь  
+stagione Ц staЈ**gi?**Јne Ц сезон  
+primavera Ц priЈmaЈ**v?**Јra Ц весна  
+estate Ц eЈ**st?**Јte Ц лето  
+autunno Ц auЈ**t?n**Јno Ц осень  
+inverno Ц inЈ**v?r**Јno Ц зима  
+clima Ц **cl?**Јma Ц климат  
+temperatura Ц temЈpeЈraЈ**t?**Јra Ц температура  
+sole Ц **s?**Јle Ц солнце  
+nuvola Ц **n?**ЈvoЈla Ц облако  
+pioggia Ц **pi?g**Јgia Ц дождь  
+neve Ц **n?**Јve Ц снег  
+vento Ц **v?n**Јto Ц ветер  
+temporale Ц temЈpoЈ**r?**Јle Ц гроза  
+gelo Ц **gi?**Јlo Ц мороз  
+caldo Ц **c?l**Јdo Ц жара  
+freddo Ц **fr?d**Јdo Ц холод  
+umidit? Ц uЈmiЈdiЈ**t?** Ц влажность  
+ghiaccio Ц **ghi?c**Јcio Ц лЄд  
+grandine Ц **gr?n**ЈdiЈne Ц град  
+arcobaleno Ц arЈcoЈbaЈ**l?**Јno Ц радуга  
+
+# √лаголы (200)
+
+andare Ц anЈ**d?**Јre Ц идти  
+venire Ц veЈ**n?**Јre Ц приходить  
+arrivare Ц arЈriЈ**v?**Јre Ц прибывать  
+partire Ц parЈ**t?**Јre Ц уезжать  
+entrare Ц enЈ**tr?**Јre Ц входить  
+uscire Ц uЈ**sc?**Јre Ц выходить  
+salire Ц saЈ**l?**Јre Ц подниматьс€  
+scendere Ц **sc?n**ЈdeЈre Ц спускатьс€  
+camminare Ц camЈmiЈ**n?**Јre Ц гул€ть  
+correre Ц **c?r**ЈreЈre Ц бегать  
+nuotare Ц nuoЈ**t?**Јre Ц плавать  
+guidare Ц guiЈ**d?**Јre Ц водить  
+volare Ц voЈ**l?**Јre Ц летать  
+sedere Ц seЈ**d?**Јre Ц сидеть  
+alzarsi Ц alЈ**z?r**Јsi Ц вставать  
+dormire Ц dorЈ**m?**Јre Ц спать  
+svegliarsi Ц sveЈ**gli?r**Јsi Ц просыпатьс€  
+lavarsi Ц laЈ**v?r**Јsi Ц мытьс€  
+vestirsi Ц veЈ**st?r**Јsi Ц одеватьс€  
+spogliarsi Ц spoЈ**gli?r**Јsi Ц раздеватьс€  
+mangiare Ц manЈ**gi?**Јre Ц есть  
+bere Ц **b?**Јre Ц пить  
+cucinare Ц cuЈciЈ**n?**Јre Ц готовить  
+comprare Ц comЈ**pr?**Јre Ц покупать  
+vendere Ц **v?n**ЈdeЈre Ц продавать  
+pagare Ц paЈ**g?**Јre Ц платить  
+spendere Ц **sp?n**ЈdeЈre Ц тратить  
+risparmiare Ц risЈparЈ**mi?**Јre Ц экономить  
+ordinare Ц orЈdiЈ**n?**Јre Ц заказывать  
+prenotare Ц preЈnoЈ**t?**Јre Ц бронировать  
+ricevere Ц riЈceЈ**v?**Јre Ц получать  
+dare Ц **d?**Јre Ц давать  
+prendere Ц **pr?n**ЈdeЈre Ц брать  
+portare Ц porЈ**t?**Јre Ц нести  
+lasciare Ц laЈ**sci?**Јre Ц оставл€ть  
+aprire Ц aЈ**pr?**Јre Ц открывать  
+chiudere Ц **chi?**ЈdeЈre Ц закрывать  
+accendere Ц acЈ**c?n**ЈdeЈre Ц включать  
+spegnere Ц **sp?**ЈgneЈre Ц выключать  
+mettere Ц **m?t**ЈteЈre Ц класть  
+togliere Ц **t?**ЈglieЈre Ц снимать, убирать  
+iniziare Ц iЈniЈziЈ**?**Јre Ц начинать  
+finire Ц fiЈ**n?**Јre Ц заканчивать  
+continuare Ц conЈtiЈnuЈ**?**Јre Ц продолжать  
+fermare Ц ferЈ**m?**Јre Ц останавливать  
+cambiare Ц camЈ**bi?**Јre Ц мен€ть  
+scegliere Ц **sc?**ЈglieЈre Ц выбирать  
+preferire Ц preЈfeЈriЈ**re** Ц предпочитать  
+provare Ц proЈ**v?**Јre Ц пробовать  
+usare Ц uЈ**s?**Јre Ц использовать  
+funzionare Ц funЈzioЈ**n?**Јre Ц работать (о предмете)  
+giocare Ц gioЈ**c?**Јre Ц играть  
+studiare Ц stuЈdiЈ**?**Јre Ц учитьс€  
+insegnare Ц inЈseЈgnaЈ**re** Ц преподавать  
+imparare Ц imЈpaЈ**r?**Јre Ц изучать  
+ricordare Ц riЈcorЈ**d?**Јre Ц помнить  
+dimenticare Ц diЈmenЈtiЈ**c?**Јre Ц забывать  
+parlare Ц parЈ**l?**Јre Ц говорить  
+dire Ц **d?**Јre Ц сказать  
+chiedere Ц **chi?**ЈdeЈre Ц спрашивать  
+rispondere Ц riЈ**sp?n**ЈdeЈre Ц отвечать  
+ascoltare Ц aЈscolЈ**t?**Јre Ц слушать  
+sentire Ц senЈ**t?**Јre Ц слышать, чувствовать  
+vedere Ц veЈ**d?**Јre Ц видеть  
+guardare Ц guarЈ**d?**Јre Ц смотреть  
+mostrare Ц moЈ**str?**Јre Ц показывать  
+spiegare Ц spieЈ**g?**Јre Ц объ€сн€ть  
+scrivere Ц **scr?**ЈveЈre Ц писать  
+leggere Ц **l?g**ЈgeЈre Ц читать  
+descrivere Ц deЈ**scr?**ЈveЈre Ц описывать  
+contare Ц conЈ**t?**Јre Ц считать  
+calcolare Ц calЈcoЈ**l?**Јre Ц вычисл€ть  
+pensare Ц penЈ**s?**Јre Ц думать  
+credere Ц **cr?**ЈdeЈre Ц верить  
+sapere Ц saЈ**p?**Јre Ц знать (информацию)  
+conoscere Ц coЈ**n?**ЈsceЈre Ц знать (кого-то)  
+capire Ц caЈ**p?**Јre Ц понимать  
+immaginare Ц imЈmaЈgiЈ**n?**Јre Ц воображать  
+sperare Ц speЈ**r?**Јre Ц наде€тьс€  
+amare Ц aЈ**m?**Јre Ц любить  
+odiare Ц oЈdiЈ**?**Јre Ц ненавидеть  
+piacere Ц piaЈ**c?**Јre Ц нравитьс€  
+dispiacere Ц diЈspiaЈ**c?**Јre Ц огорчатьс€  
+temere Ц teЈ**m?**Јre Ц бо€тьс€  
+ridere Ц **r?**ЈdeЈre Ц сме€тьс€  
+piangere Ц **pi?n**ЈgeЈre Ц плакать  
+sorridere Ц sorЈ**r?**ЈdeЈre Ц улыбатьс€  
+abbracciare Ц abЈbracЈciЈ**?**Јre Ц обнимать  
+baciare Ц baЈciЈ**?**Јre Ц целовать  
+incontrare Ц inЈconЈ**tr?**Јre Ц встречать  
+salutare Ц saЈluЈ**t?**Јre Ц здороватьс€  
+ringraziare Ц rinЈgraЈziЈ**?**Јre Ц благодарить  
+scusare Ц scuЈ**s?**Јre Ц извин€ть  
+aiutare Ц aЈiuЈ**t?**Јre Ц помогать  
+chiamare Ц chiaЈ**m?**Јre Ц звать, звонить  
+telefonare Ц teЈleЈfoЈ**n?**Јre Ц звонить по телефону  
+inviare Ц inЈviЈ**?**Јre Ц отправл€ть  
+ricevere Ц riЈceЈ**v?**Јre Ц получать  
+spostare Ц spoЈ**st?**Јre Ц перемещать  
+tornare Ц torЈ**n?**Јre Ц возвращатьс€  
+restare Ц reЈ**st?**Јre Ц оставатьс€  
+vivere Ц **v?**ЈveЈre Ц жить  
+abitare Ц aЈbiЈ**t?**Јre Ц проживать  
+morire Ц moЈ**r?**Јre Ц умирать  
+nascere Ц **n?**ЈsceЈre Ц рождатьс€  
+crescere Ц **cr?**ЈsceЈre Ц расти  
+costruire Ц coЈstruЈ**?**Јre Ц строить  
+riparare Ц riЈpaЈ**r?**Јre Ц чинить  
+rompere Ц **r?m**ЈpeЈre Ц ломать  
+pulire Ц puЈ**l?**Јre Ц чистить  
+sporcare Ц sporЈ**c?**Јre Ц пачкать  
+lavare Ц laЈ**v?**Јre Ц мыть  
+tagliare Ц taЈgliЈ**?**Јre Ц резать  
+cucinare Ц cuЈciЈ**n?**Јre Ц готовить  
+mescolare Ц meЈscoЈ**l?**Јre Ц смешивать  
+aggiungere Ц agЈgiunЈ**g?**Јre Ц добавл€ть  
+togliere Ц **t?**ЈglieЈre Ц убирать  
+servire Ц serЈ**v?**Јre Ц обслуживать  
+offrire Ц ofЈ**fr?**Јre Ц предлагать  
+accettare Ц acЈcetЈ**t?**Јre Ц принимать  
+rifiutare Ц riЈfiuЈ**t?**Јre Ц отказывать  
+cercare Ц cerЈ**c?**Јre Ц искать  
+trovare Ц troЈ**v?**Јre Ц находить  
+perdere Ц **p?r**ЈdeЈre Ц тер€ть  
+vincere Ц **v?n**ЈceЈre Ц выигрывать  
+permettere Ц perЈ**m?t**ЈteЈre Ц разрешать  
+vietare Ц vieЈ**t?**Јre Ц запрещать  
+obbedire Ц obЈbeЈd**?**Јre Ц слушатьс€  
+comandare Ц coЈmanЈ**d?**Јre Ц приказывать  
+ordinare Ц orЈdiЈ**n?**Јre Ц приказывать, заказывать  
+aiutare Ц aЈiuЈ**t?**Јre Ц помогать  
+lavorare Ц laЈvoЈ**r?**Јre Ц работать  
+studiare Ц stuЈdiЈ**?**Јre Ц учитьс€  
+insegnare Ц inЈseЈgnaЈ**re** Ц преподавать  
+giocare Ц gioЈ**c?**Јre Ц играть  
+viaggiare Ц viagЈgiЈ**?**Јre Ц путешествовать  
+guidare Ц guiЈ**d?**Јre Ц водить  
+camminare Ц camЈmiЈ**n?**Јre Ц идти пешком  
+nuotare Ц nuoЈ**t?**Јre Ц плавать  
+correre Ц **c?r**ЈreЈre Ц бегать  
+saltare Ц salЈ**t?**Јre Ц прыгать  
+ballare Ц balЈ**l?**Јre Ц танцевать  
+cantare Ц canЈ**t?**Јre Ц петь  
+suonare Ц suoЈ**n?**Јre Ц играть (на инструменте)  
+disegnare Ц diЈseЈgnaЈ**re** Ц рисовать  
+fotografare Ц foЈtoЈgraЈ**f?**Јre Ц фотографировать  
+guardare Ц guarЈ**d?**Јre Ц смотреть  
+vedere Ц veЈ**d?**Јre Ц видеть  
+osservare Ц osЈserЈ**v?**Јre Ц наблюдать  
+visitare Ц viЈsiЈ**t?**Јre Ц посещать  
+viaggiare Ц viagЈgiЈ**?**Јre Ц путешествовать  
+prenotare Ц preЈnoЈ**t?**Јre Ц бронировать  
+organizzare Ц orЈgaЈniЈz**z?**Јre Ц организовывать  
+preparare Ц preЈpaЈ**r?**Јre Ц готовить  
+cercare Ц cerЈ**c?**Јre Ц искать  
+trovare Ц troЈ**v?**Јre Ц находить  
+scegliere Ц **sc?**ЈglieЈre Ц выбирать  
+preferire Ц preЈfeЈriЈ**re** Ц предпочитать  
+proporre Ц proЈ**p?r**Јre Ц предлагать  
+accettare Ц acЈcetЈ**t?**Јre Ц принимать  
+rifiutare Ц riЈfiuЈ**t?**Јre Ц отказывать  
+ringraziare Ц rinЈgraЈziЈ**?**Јre Ц благодарить  
+salutare Ц saЈluЈ**t?**Јre Ц приветствовать  
+presentare Ц preЈsenЈ**t?**Јre Ц представл€ть  
+spiegare Ц spieЈ**g?**Јre Ц объ€сн€ть  
+descrivere Ц deЈ**scr?**ЈveЈre Ц описывать  
+scrivere Ц **scr?**ЈveЈre Ц писать  
+leggere Ц **l?g**ЈgeЈre Ц читать  
+ascoltare Ц aЈscolЈ**t?**Јre Ц слушать  
+sentire Ц senЈ**t?**Јre Ц слышать  
+domandare Ц doЈmanЈ**d?**Јre Ц спрашивать  
+rispondere Ц riЈ**sp?n**ЈdeЈre Ц отвечать  
+telefonare Ц teЈleЈfoЈ**n?**Јre Ц звонить  
+inviare Ц inЈviЈ**?**Јre Ц отправл€ть  
+ricevere Ц riЈceЈ**v?**Јre Ц получать  
+lavorare Ц laЈvoЈ**r?**Јre Ц работать  
+studiare Ц stuЈdiЈ**?**Јre Ц учитьс€  
+giocare Ц gioЈ**c?**Јre Ц играть  
+nuotare Ц nuoЈ**t?**Јre Ц плавать  
+correre Ц **c?r**ЈreЈre Ц бегать  
+
+# ѕрилагательные (150)
+
+bello Ц **b?l**Јlo Ц красивый  
+brutto Ц **br?t**Јto Ц некрасивый  
+alto Ц **?l**Јto Ц высокий  
+basso Ц **b?s**Јso Ц низкий  
+magro Ц **m?**Јgro Ц худой  
+grasso Ц **gr?s**Јso Ц толстый  
+giovane Ц **gi?**ЈvaЈne Ц молодой  
+vecchio Ц **v?c**Јchio Ц старый  
+nuovo Ц **nu?**Јvo Ц новый  
+vecchio Ц **v?c**Јchio Ц старый  
+buono Ц **bu?**Јno Ц хороший  
+cattivo Ц catЈ**t?**Јvo Ц плохой  
+grande Ц **gr?n**Јde Ц большой  
+piccolo Ц **p?c**ЈcoЈlo Ц маленький  
+lungo Ц **l?n**Јgo Ц длинный  
+corto Ц **c?r**Јto Ц короткий  
+stretto Ц **str?t**Јto Ц узкий  
+largo Ц **l?r**Јgo Ц широкий  
+pieno Ц **pi?**Јno Ц полный  
+vuoto Ц **vu?**Јto Ц пустой  
+aperto Ц aЈ**p?r**Јto Ц открытый  
+chiuso Ц **chi?**Јso Ц закрытый  
+caldo Ц **c?l**Јdo Ц тЄплый  
+freddo Ц **fr?d**Јdo Ц холодный  
+chiaro Ц **chi?**Јro Ц светлый  
+scuro Ц **sc?**Јro Ц тЄмный  
+facile Ц **f?**ЈciЈle Ц лЄгкий  
+difficile Ц difЈ**f?**ЈciЈle Ц трудный  
+veloce Ц veЈ**l?**Јce Ц быстрый  
+lento Ц **l?n**Јto Ц медленный  
+giusto Ц **gi?s**Јto Ц правильный  
+sbagliato Ц sbaЈgliЈ**?**Јto Ц ошибочный  
+simile Ц **s?**ЈmiЈle Ц похожий  
+diverso Ц diЈ**v?r**Јso Ц разный  
+uguale Ц uЈ**gu?**Јle Ц одинаковый  
+divertente Ц diЈverЈ**t?n**Јte Ц забавный  
+noioso Ц noЈioЈ**s?**Јso Ц скучный  
+interessante Ц inЈteЈresЈ**s?n**Јte Ц интересный  
+importante Ц imЈporЈ**t?n**Јte Ц важный  
+utile Ц **?**ЈtiЈle Ц полезный  
+inutile Ц iЈ**n?**ЈtiЈle Ц бесполезный  
+famoso Ц faЈ**m?**Јso Ц известный  
+anonimo Ц aЈ**n?**ЈniЈmo Ц анонимный  
+occupato Ц ocЈcuЈ**p?**Јto Ц зан€тый  
+libero Ц **l?**ЈbeЈro Ц свободный  
+impaziente Ц imЈpaЈzi?nЈte Ц нетерпеливый  
+gentile Ц genЈ**t?**Јle Ц вежливый  
+scortese Ц scorЈteЈ**s?** Ц невежливый  
+cordiale Ц corЈdiЈ**?**Јle Ц сердечный  
+freddo Ц **fr?d**Јdo Ц холодный (о человеке)  
+calmo Ц **c?l**Јmo Ц спокойный  
+nervoso Ц nerЈ**v?**Јso Ц нервный  
+triste Ц **tr?s**Јte Ц грустный  
+felice Ц feЈ**l?**Јce Ц счастливый  
+contento Ц conЈ**t?n**Јto Ц довольный  
+arrabbiato Ц arЈrabЈbiЈ**?**Јto Ц злой  
+timido Ц **t?**ЈmiЈdo Ц застенчивый  
+sicuro Ц siЈ**c?**Јro Ц уверенный  
+insicuro Ц inЈsiЈc?Јro Ц неуверенный  
+onesto Ц oЈ**n?**Јsto Ц честный  
+disonesto Ц diЈsoЈ**n?**Јsto Ц нечестный  
+gentile Ц genЈ**t?**Јle Ц добрый  
+egoista Ц eЈgoЈ**?s**Јta Ц эгоистичный  
+generoso Ц geЈneЈ**r?**Јso Ц щедрый  
+avaro Ц aЈ**v?**Јro Ц жадный  
+sincero Ц sinЈ**c?**Јro Ц искренний  
+falso Ц **f?l**Јso Ц фальшивый  
+prudente Ц pruЈ**d?n**Јte Ц осторожный  
+imprudente Ц imЈpruЈ**d?n**Јte Ц неосторожный  
+simpatico Ц simЈ**p?**ЈtiЈco Ц симпатичный  
+antipatico Ц anЈtiЈ**p?**ЈtiЈco Ц непри€тный  
+carino Ц caЈ**r?**Јno Ц милый  
+brutto Ц **br?t**Јto Ц некрасивый  
+forte Ц **f?r**Јte Ц сильный  
+debole Ц **d?**ЈboЈle Ц слабый  
+ricco Ц **r?c**Јco Ц богатый  
+povero Ц **p?**ЈveЈro Ц бедный  
+giusto Ц **gi?s**Јto Ц справедливый  
+ingiusto Ц inЈgi?sЈto Ц несправедливый  
+pulito Ц puЈ**l?**Јto Ц чистый  
+sporco Ц **sp?r**Јco Ц гр€зный  
+accessibile Ц acЈcesЈ**s?**ЈbiЈle Ц доступный  
+inaccessibile Ц iЈnacЈcesЈ**s?**ЈbiЈle Ц недоступный  
+moderno Ц moЈ**d?r**Јno Ц современный  
+antico Ц anЈ**t?**Јco Ц древний  
+reale Ц reЈ**?**Јle Ц реальный  
+irreale Ц irЈreЈ**?**Јle Ц нереальный  
+normale Ц norЈ**m?**Јle Ц обычный  
+strano Ц **str?**Јno Ц странный  
+chiaro Ц **chi?**Јro Ц €сный  
+oscuro Ц oЈ**sc?**Јro Ц тЄмный  
+pesante Ц peЈ**s?n**Јte Ц т€жЄлый  
+leggero Ц legЈ**g?**Јro Ц лЄгкий  
+profondo Ц proЈ**f?n**Јdo Ц глубокий  
+superficiale Ц suЈperЈfiЈ**ci?**Јle Ц поверхностный  
+vicino Ц viЈ**c?**Јno Ц близкий  
+lontano Ц lonЈ**t?**Јno Ц далЄкий  
+intero Ц inЈ**t?**Јro Ц целый  
+rotto Ц **r?t**Јto Ц сломанный  
+utile Ц **?**ЈtiЈle Ц полезный  
+inutile Ц iЈ**n?**ЈtiЈle Ц бесполезный  
+stanco Ц **st?n**Јco Ц уставший  
+riposato Ц riЈpoЈ**s?**Јto Ц отдохнувший  
+malato Ц maЈ**l?**Јto Ц больной  
+sano Ц **s?**Јno Ц здоровый  
+giusto Ц **gi?s**Јto Ц верный  
+sbagliato Ц sbaЈgliЈ**?**Јto Ц ошибочный  
+vero Ц **v?**Јro Ц правдивый  
+falso Ц **f?l**Јso Ц ложный  
+frequente Ц freЈ**qu?n**Јte Ц частый  
+raro Ц **r?**Јro Ц редкий  
+chiaro Ц **chi?**Јro Ц светлый  
+scuro Ц **sc?**Јro Ц тЄмный  
+profondo Ц proЈ**f?n**Јdo Ц глубокий  
+superficiale Ц suЈperЈfiЈ**ci?**Јle Ц поверхностный  
+adatto Ц aЈ**d?t**Јto Ц подход€щий  
+inadatto Ц iЈnaЈ**d?t**Јto Ц неподход€щий  
+tranquillo Ц tranЈ**qu?l**Јlo Ц спокойный  
+agitato Ц aЈgiЈ**t?**Јto Ц взволнованный  
+affollato Ц afЈfolЈ**l?**Јto Ц переполненный  
+vuoto Ц **vu?**Јto Ц пустой  
+luminoso Ц luЈmiЈ**n?**Јso Ц светлый  
+buio Ц **b?i**Јo Ц тЄмный  
+secco Ц **s?c**Јco Ц сухой  
+umido Ц **?**ЈmiЈdo Ц влажный  
+dolce Ц **d?l**Јce Ц сладкий  
+amaro Ц aЈ**m?**Јro Ц горький  
+acido Ц **?**ЈciЈdo Ц кислый  
+piccante Ц picЈ**c?n**Јte Ц острый  
+salato Ц saЈ**l?**Јto Ц солЄный  
+insipido Ц inЈ**s?**ЈpiЈdo Ц пресный  
+comodo Ц **c?**ЈmoЈdo Ц удобный  
+scomodo Ц **sc?**ЈmoЈdo Ц неудобный  
+utile Ц **?**ЈtiЈle Ц полезный  
+inutile Ц iЈ**n?**ЈtiЈle Ц бесполезный  
+profumato Ц proЈfuЈ**m?**Јto Ц ароматный  
+puzzolente Ц puzЈzoЈ**l?n**Јte Ц вонючий  
+economico Ц eЈcoЈ**n?**ЈmiЈco Ц дешЄвый  
+costoso Ц coЈ**st?**Јso Ц дорогой  
+fresco Ц **fr?**Јsco Ц свежий  
+stagionato Ц staЈgioЈ**n?**Јto Ц выдержанный  
+pieno Ц **pi?**Јno Ц наполненный  
+vuoto Ц **vu?**Јto Ц пустой  
+abbondante Ц abЈbonЈ**d?n**Јte Ц обильный  
+scarso Ц **sc?r**Јso Ц скудный  
+abile Ц **?**ЈbiЈle Ц способный  
+incapace Ц inЈcaЈ**p?**Јce Ц неспособный  
+conosciuto Ц coЈnoЈsci?Јto Ц известный  
+sconosciuto Ц scoЈnoЈsci?Јto Ц незнакомый  
+freddo Ц **fr?d**Јdo Ц холодный  
+caldo Ц **c?l**Јdo Ц гор€чий  
+diverso Ц diЈ**v?r**Јso Ц другой  
+stesso Ц **st?s**Јso Ц тот же  
+giovane Ц **gi?**ЈvaЈne Ц молодой  
+vecchio Ц **v?c**Јchio Ц старый  
+attivo Ц atЈ**t?**Јvo Ц активный  
+passivo Ц pasЈ**s?**Јvo Ц пассивный  
+felice Ц feЈ**l?**Јce Ц весЄлый  
+triste Ц **tr?s**Јte Ц печальный  
+serio Ц **s?**Јrio Ц серьЄзный  
+spensierato Ц spenЈsieЈ**r?**Јto Ц беззаботный  
+gentile Ц genЈ**t?**Јle Ц добрый  
+maleducato Ц maЈleЈduЈ**c?**Јto Ц невоспитанный  
+forte Ц **f?r**Јte Ц сильный  
+debole Ц **d?**ЈboЈle Ц слабый  
+maturo Ц maЈ**t?**Јro Ц зрелый  
+immaturo Ц imЈmaЈ**t?**Јro Ц незрелый  
+vero Ц **v?**Јro Ц насто€щий  
+falso Ц **f?l**Јso Ц ложный  
+chiuso Ц **chi?**Јso Ц закрытый  
+aperto Ц aЈ**p?r**Јto Ц открытый  
+
+# Ќаречи€ (80)
+
+sempre Ц **s?m**Јpre Ц всегда  
+mai Ц mai Ц никогда  
+gi? Ц gi? Ц уже  
+ancora Ц anЈ**c?**Јra Ц ещЄ  
+subito Ц **s?**ЈbiЈto Ц сразу  
+presto Ц **pr?**Јsto Ц рано  
+tardi Ц **t?r**Јdi Ц поздно  
+adesso Ц aЈ**d?s**Јso Ц сейчас  
+ora Ц **?**Јra Ц теперь  
+poi Ц poi Ц потом  
+dopo Ц **d?**Јpo Ц после  
+prima Ц **pr?**Јma Ц до  
+oggi Ц **?g**Јgi Ц сегодн€  
+ieri Ц **i?**Јri Ц вчера  
+domani Ц doЈ**m?**Јni Ц завтра  
+spesso Ц **sp?s**Јso Ц часто  
+raramente Ц raЈraЈ**m?n**Јte Ц редко  
+solitamente Ц soЈliЈtaЈ**m?n**Јte Ц обычно  
+di solito Ц di **s?**ЈliЈto Ц как правило  
+normalmente Ц norЈmalЈ**m?n**Јte Ц обычно  
+forse Ц **f?r**Јse Ц может быть  
+probabilmente Ц proЈbaЈbilЈ**m?n**Јte Ц веро€тно  
+certamente Ц cerЈtaЈ**m?n**Јte Ц конечно  
+davvero Ц davЈ**v?**Јro Ц действительно  
+proprio Ц **pr?**Јprio Ц именно  
+appena Ц apЈ**p?**Јna Ц только что  
+giustamente Ц giuЈstaЈ**m?n**Јte Ц справедливо  
+male Ц **m?**Јle Ц плохо  
+bene Ц **b?**Јne Ц хорошо  
+cos? Ц coЈ**s?** Ц так  
+comunque Ц coЈ**m?n**Јque Ц всЄ равно  
+insieme Ц inЈ**si?**Јme Ц вместе  
+da solo Ц da **s?**Јlo Ц один  
+solo Ц **s?**Јlo Ц только  
+almeno Ц alЈ**m?**Јno Ц по крайней мере  
+circa Ц **c?r**Јca Ц примерно  
+quasi Ц **qu?**Јsi Ц почти  
+troppo Ц **tr?p**Јpo Ц слишком  
+abbastanza Ц abЈbasЈ**t?**Јnza Ц достаточно  
+poco Ц **p?**Јco Ц мало  
+molto Ц **m?l**Јto Ц много  
+pi? Ц pi? Ц больше  
+meno Ц **m?**Јno Ц меньше  
+lontano Ц lonЈ**t?**Јno Ц далеко  
+vicino Ц viЈ**c?**Јno Ц близко  
+qui Ц qui Ц здесь  
+l? Ц l? Ц там  
+l? Ц l? Ц туда  
+dappertutto Ц dapЈperЈ**t?t**Јto Ц везде  
+ovunque Ц oЈ**v?n**Јque Ц где угодно  
+fuori Ц **fu?**Јri Ц снаружи  
+dentro Ц **d?n**Јtro Ц внутри  
+sopra Ц **s?**Јpra Ц сверху  
+sotto Ц **s?t**Јto Ц снизу  
+davanti Ц daЈ**v?n**Јti Ц спереди  
+dietro Ц **di?**Јtro Ц сзади  
+accanto Ц acЈ**c?n**Јto Ц р€дом  
+in mezzo Ц in **m?z**Јzo Ц посередине  
+dapprima Ц dapЈ**pr?**Јma Ц сначала  
+infine Ц inЈ**f?**Јne Ц в конце  
+lentamente Ц lenЈtaЈ**m?n**Јte Ц медленно  
+velocemente Ц veЈloЈceЈ**m?n**Јte Ц быстро  
+piano Ц **pi?**Јno Ц тихо  
+forte Ц **f?r**Јte Ц громко  
+seriamente Ц seЈriaЈ**m?n**Јte Ц серьЄзно  
+facilmente Ц faЈcilЈ**m?n**Јte Ц легко  
+difficilmente Ц difЈfiЈcilЈ**m?n**Јte Ц с трудом  
+volentieri Ц voЈlenЈ**ti?**Јri Ц с удовольствием  
+purtroppo Ц purЈ**tr?p**Јpo Ц к сожалению  
+per fortuna Ц per forЈ**t?**Јna Ц к счастью  
+magari Ц maЈ**g?**Јri Ц возможно  
+perfettamente Ц perЈfetЈtaЈ**m?n**Јte Ц идеально  
+quindi Ц **qu?n**Јdi Ц значит  
+cos? Ц coЈ**s?** Ц так  
+sicuramente Ц siЈcuЈraЈ**m?n**Јte Ц наверн€ка  
+circa Ц **c?r**Јca Ц приблизительно  
+eventualmente Ц eЈvenЈtualЈ**m?n**Јte Ц в случае необходимости  
+
+# ѕредлоги (40)
+
+di Ц di Ц из, о, от  
+a Ц a Ц в, на, к  
+da Ц da Ц из, от, у  
+in Ц in Ц в  
+con Ц con Ц с  
+su Ц su Ц на  
+per Ц per Ц дл€, за  
+tra Ц tra Ц между  
+fra Ц fra Ц между  
+sopra Ц **s?**Јpra Ц над  
+sotto Ц **s?t**Јto Ц под  
+dietro Ц **di?**Јtro Ц за  
+davanti Ц daЈ**v?n**Јti Ц перед  
+accanto Ц acЈ**c?n**Јto Ц р€дом  
+intorno Ц inЈ**t?r**Јno Ц вокруг  
+contro Ц **c?n**Јtro Ц против  
+verso Ц **v?r**Јso Ц к, по направлению  
+fino a Ц **f?**Јno a Ц до  
+dopo Ц **d?**Јpo Ц после  
+prima di Ц **pr?**Јma di Ц перед тем как  
+lungo Ц **l?n**Јgo Ц вдоль  
+durante Ц duЈ**r?**ЈnЈte Ц во врем€  
+secondo Ц seЈ**c?n**Јdo Ц согласно  
+senza Ц **s?n**Јza Ц без  
+oltre Ц **?l**Јtre Ц кроме  
+sotto Ц **s?t**Јto Ц под  
+circa Ц **c?r**Јca Ц около  
+tra Ц tra Ц между  
+fra Ц fra Ц между  
+entro Ц **?n**Јtro Ц в течение  
+sopra Ц **s?**Јpra Ц над  
+attraverso Ц atЈtraЈ**v?r**Јso Ц через  
+rispetto a Ц riЈsp?tЈto a Ц по сравнению с  
+durante Ц duЈ**r?**Јnte Ц во врем€  
+per via di Ц per via di Ц из-за  
+tranne Ц **tr?n**Јne Ц кроме  
+senza Ц **s?n**Јza Ц без  
+attorno a Ц atЈ**t?r**Јno a Ц вокруг  
+intorno a Ц inЈ**t?r**Јno a Ц вокруг  
+presso Ц **pr?s**Јso Ц возле  
+
+# ћестоимени€ (50)
+
+io Ц io Ц €  
+tu Ц tu Ц ты  
+lui Ц lui Ц он  
+lei Ц lei Ц она  
+noi Ц noi Ц мы  
+voi Ц voi Ц вы  
+loro Ц **l?**Јro Ц они  
+mi Ц mi Ц мен€  
+ti Ц ti Ц теб€  
+lo Ц lo Ц его  
+la Ц la Ц еЄ  
+ci Ц ci Ц нас  
+vi Ц vi Ц вас  
+li Ц li Ц их (муж.)  
+le Ц le Ц их (жен.)  
+mio Ц **m?**Јo Ц мой  
+mia Ц **m?**Јa Ц мо€  
+tuo Ц **t?**Јo Ц твой  
+tua Ц **t?**Јa Ц тво€  
+suo Ц **s?**Јo Ц его, еЄ  
+sua Ц **s?**Јa Ц его, еЄ  
+nostro Ц **n?**Јstro Ц наш  
+nostra Ц **n?**Јstra Ц наша  
+vostro Ц **v?**Јstro Ц ваш  
+vostra Ц **v?**Јstra Ц ваша  
+loro Ц **l?**Јro Ц их  
+questo Ц **qu?s**Јto Ц этот  
+questa Ц **qu?s**Јta Ц эта  
+quello Ц **qu?l**Јlo Ц тот  
+quella Ц **qu?l**Јla Ц та  
+questi Ц **qu?s**Јti Ц эти  
+quelle Ц **qu?l**Јle Ц те  
+chi Ц chi Ц кто  
+che Ц che Ц который  
+cosa Ц **c?**Јsa Ц что  
+quale Ц **qu?**Јle Ц какой  
+quanto Ц **qu?n**Јto Ц сколько  
+alcuno Ц alЈ**c?**Јno Ц какой-либо  
+nessuno Ц nesЈ**s?**Јno Ц никто  
+tutti Ц **t?t**Јti Ц все  
+ognuno Ц oЈgnuЈ**n?**Јno Ц каждый  
+qualcuno Ц qualЈ**c?**Јno Ц кто-то  
+qualcosa Ц qualЈ**c?**Јsa Ц что-то  
+nulla Ц **n?l**Јla Ц ничего  
+nessuno Ц nesЈ**s?**Јno Ц никто  
+me Ц me Ц мен€  
+te Ц te Ц теб€  
+s? Ц s? Ц себ€  
+noi stessi Ц noi **st?s**Јsi Ц мы сами  
+voi stessi Ц voi **st?s**Јsi Ц вы сами  
+
+# ћеждомети€ (20)
+
+ciao Ц ciao Ц привет  
+salve Ц **s?l**Јve Ц здравствуйте  
+buongiorno Ц buonЈ**gi?r**Јno Ц добрый день  
+buonasera Ц buoЈnaЈ**s?**Јra Ц добрый вечер  
+buonanotte Ц buoЈnaЈ**n?t**Јte Ц спокойной ночи  
+arrivederci Ц arЈriЈveЈ**d?r**Јci Ц до свидани€  
+addio Ц adЈ**d?**Јo Ц прощай  
+grazie Ц **gr?**Јzie Ц спасибо  
+prego Ц **pr?**Јgo Ц пожалуйста  
+scusa Ц **sc?**Јsa Ц извини  
+scusate Ц scuЈ**s?**Јte Ц извините  
+mi dispiace Ц mi disЈpi?Јce Ц мне жаль  
+evviva Ц evЈ**v?**Јva Ц ура  
+aiuto Ц aЈi?Јto Ц помогите  
+attenzione Ц atЈtenЈzioЈ**ne** Ц осторожно  
+forza Ц **f?r**Јza Ц вперЄд  
+basta Ц **b?s**Јta Ц хватит  
+oh Ц oh Ц ох  
+ahi Ц ahi Ц ай!  
+ehi Ц ehi Ц эй!  
