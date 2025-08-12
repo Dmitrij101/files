@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Слот-машина</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #121212;
+      color: white;
+      text-align: center;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 { color: #ffcc00; text-shadow: 0 0 10px rgba(255, 204, 0, 0.7); }
+    #slot-machine {
+      display: flex; justify-content: center; gap: 10px; margin: 30px 0;
+    }
+    .reel {
+      width: 80px; height: 100px; background: #2a2a2a; border-radius: 10px;
+      overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+    }
+    .symbol { height: 100%; display: flex; align-items: center; justify-content: center; font-size: 48px; }
+    .spinning .symbol { animation: spin 0.1s linear infinite; }
+    @keyframes spin { from { transform: rotateX(0deg); } to { transform: rotateX(360deg); } }
+    button {
+      background: #ffcc00; color: #000; border: none; padding: 15px 30px;
+      font-size: 18px; font-weight: bold; border-radius: 25px; cursor: pointer;
+      box-shadow: 0 4px 15px rgba(255,204,0,0.4); transition: all 0.2s;
+    }
+    button:active { transform: scale(0.95); }
+    #message, #balance { margin: 10px 0; font-size: 18px; }
+    .win-animation { animation: pulse 0.5s ease-in-out 3; }
+    @keyframes pulse {
+      0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(255,204,0,0.7); }
+      50% { transform: scale(1.05); box-shadow: 0 0 20px 10px rgba(255,204,0,0.4); }
+      100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(255,204,0,0); }
+    }
+  </style>
+</head>
+<body>
+  <h1>🎰 СЛОТ-МАШИНА</h1>
+  <p id="balance">Баланс: загрузка...</p>
+  <div id="slot-machine">
+    <div class="reel"><div class="symbol">🍒</div></div>
+    <div class="reel"><div class="symbol">🍋</div></div>
+    <div class="reel"><div class="symbol">🔔</div></div>
+  </div>
+  <button id="spin">КРУТИТЬ за 10 Stars</button>
+  <div id="message"></div>
+
+  <script>
+    const Telegram = window.Telegram?.WebApp;
+    Telegram.ready();
+    Telegram.expand();
+
+    const spinBtn = document.getElementById("spin");
+    const reels = document.querySelectorAll(".reel");
+    const messageEl = document.getElementById("message");
+    const balanceEl = document.getElementById("balance");
+    const symbols = ["🍒", "🍋", "🔔", "💎", "7️⃣", "⭐", "🍉", "🍇"];
+
+    // Звуки
+    const spinSound = new Audio("https://your-domain.com/sounds/spin.mp3");
+    const winSound = new Audio("https://your-domain.com/sounds/win.mp3");
+
+    let userBalance = 0;
+
+    // Загружаем прогресс
+    async function loadProgress() {
+      const response = await fetch(`https://your-domain.com/api/progress?user_id=${Telegram.initDataUnsafe.user.id}`);
+      const data = await response.json();
+      userBalance = data.coins || 0;
+      balanceEl.innerText = `Баланс: ${userBalance} монет`;
+    }
+    loadProgress();
+
+    function randomSymbol() {
+      return symbols[Math.floor(Math.random() * symbols.length)];
+    }
+
+    function setReel(reel, symbol) {
+      reel.querySelector(".symbol").textContent = symbol;
+    }
+
+    function startSpinning() {
+      messageEl.textContent = "";
+      reels.forEach(reel => reel.classList.add("spinning"));
+      spinSound.play().catch(() => {}); // игнорируем блокировку автоплея
+    }
+
+    function stopSpinning(reel, symbol, delay) {
+      setTimeout(() => {
+        reel.classList.remove("spinning");
+        setReel(reel, symbol);
+      }, delay);
+    }
+
+    spinBtn.addEventListener("click", () => {
+      Telegram.openInvoice({
+        title: "Крутка слота",
+        description: "Одна попытка выиграть джекпот!",
+        payload: `spin_${Telegram.initDataUnsafe.user.id}_${Date.now()}`,
+        currency: "XTR",
+        prices: [{ label: "1 крутка", amount: 10 }],
+      }, async (status) => {
+        if (status === "paid") {
+          spinBtn.disabled = true;
+          startSpinning();
+
+          const results = Array.from({ length: 3 }, () => randomSymbol());
+
+          stopSpinning(reels[0], results[0], 1000);
+          stopSpinning(reels[1], results[1], 1400);
+          stopSpinning(reels[2], results[2], 1800);
+
+          setTimeout(() => {
+            if (results[0] === results[1] && results[1] === results[2]) {
+              messageEl.textContent = "🎉 ДЖЕКПОТ!";
+              messageEl.style.color = "#ffcc00";
+              userBalance += 50;
+              winSound.play().catch(() => {});
+              reels.forEach(r => r.classList.add("win-animation"));
+              setTimeout(() => reels.forEach(r => r.classList.remove("win-animation")), 1500);
+            } else {
+              messageEl.textContent = "Повезёт в следующий раз!";
+            }
+
+            // Сохраняем прогресс
+            fetch("https://your-domain.com/api/save", {
+              method: "POST",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({
+                user_id: Telegram.initDataUnsafe.user.id,
+                username: Telegram.initDataUnsafe.user.username,
+                first_name: Telegram.initDataUnsafe.user.first_name,
+                coins: userBalance,
+                last_spin: new Date().toISOString(),
+                win: results[0] === results[1] && results[1] === results[2]
+              })
+            });
+
+            balanceEl.innerText = `Баланс: ${userBalance} монет`;
+            spinBtn.disabled = false;
+          }, 2000);
+        }
+      });
+    });
+  </script>
+</body>
+</html>
